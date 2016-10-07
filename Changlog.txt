@@ -1,0 +1,1 @@
+V1.0.1 - Reverted the need for PvPLegends and renamed the extension to it's original name.
