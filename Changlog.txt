@@ -1,2 +1,3 @@
 V1.0.1 - Reverted the need for PvPLegends and renamed the extension to it's original name.
 V1.0.2 - Emergency update to tackle some updated element name changes.
+V1.0.3 - Consistent darker tone applied across the board, minor bug fixes and borders removed for a cleaner look.
