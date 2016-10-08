@@ -1,3 +1,11 @@
 V1.0.1 - Reverted the need for PvPLegends and renamed the extension to it's original name.
 V1.0.2 - Emergency update to tackle some updated element name changes.
 V1.0.3 - Consistent darker tone applied across the board, minor bug fixes and borders removed for a cleaner look.
+V1.0.3.5 - Changes which include V1.0.4's original changes, need to fix a few things before V1.0.4's release.
+V1.0.4 (tbr) - 
+Theming of the "Recents" section.
+Fixed the footer near the bottom of the thread display options from being white.
+Optimizations across the board in terms of code execution.
+Fixed a number of minor bugs which inverted the black colour upon being clicked, other minor bug fixes in terms of colour co-ordination.
+The removal of borders in certain sections.
+Fixed the buttons under Notable Members which appeared white.
