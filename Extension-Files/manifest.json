@@ -1,0 +1,18 @@
+{
+	"name": "Arkham Dark Theme",
+	"version": "1.0.4.5",
+	"manifest_version": 2,
+	"description": "Used to darken the look of the Arkham Network forums.",
+	"short_name": "ADT",
+
+	"icons": {
+		"32": "icon.png",
+		"48": "icon3.png",
+		"128": "icon2.png"
+
+	},
+	"content_scripts": [{
+		"matches": ["http://arkhamnetwork.org/community/*"],
+		"css": ["code1.css"]
+	}]
+}
