@@ -15,7 +15,7 @@ Optimizations across the board in terms of code execution.
 Fixed a number of minor bugs which inverted the black colour upon being clicked, other minor bug fixes in terms of colour co-ordination.
 The removal of borders in certain sections.
 Fixed the buttons under Notable Members which appeared white.
-Implementation of the Blink rendering engine to decrease the overall load on the main GPU when loading the main body of the page.
+Taken advantage of the Blink rendering engine to decrease the overall load on the main GPU when loading the main body of the page.
 V1.0.4.5
 ----------------
 Halloween update.
