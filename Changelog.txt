@@ -25,3 +25,4 @@ Introduced hovering events for certain objects.
 Made certain whites lighter in order to improve readability.
 Fixed the naming of this file in the repository.
 Improved the layout of recent releases for clarity in the repository.
+----------------
