@@ -16,6 +16,7 @@ Fixed a number of minor bugs which inverted the black colour upon being clicked,
 The removal of borders in certain sections.
 Fixed the buttons under Notable Members which appeared white.
 Taken advantage of the Blink rendering engine to decrease the overall load on the main GPU when loading the main body of the page.
+----------------
 V1.0.4.5
 ----------------
 Halloween update.
@@ -25,4 +26,15 @@ Introduced hovering events for certain objects.
 Made certain whites lighter in order to improve readability.
 Fixed the naming of this file in the repository.
 Improved the layout of recent releases for clarity in the repository.
+----------------
+V1.0.4.6
+----------------
+Code has been compressed by 13%, reducing the overall file size of the extension and meaning that the resources can be loaded in much quicker than on the last release.
+Colours have been converted to the hexadecimal format for quicker execution than the usual RGB.
+Uploaded a screenshot to the Chrome Web Store.
+Fixed a minor text issue with the extension description.
+Updated version number.
+Improved the layout of the extension description on the Chrome Web Store.
+Minor bug fix with a colour on the forums.
+Bunch of other not-mentioned fixes.
 ----------------
