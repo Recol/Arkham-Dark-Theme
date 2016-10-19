@@ -566,3 +566,7 @@ div.sectionFooter {
 background-color:#111!important;
 border-top:.5px solid #e8e8e8!important;
 }
+
+div.titleBar {
+	color: #626262!important;
+}
