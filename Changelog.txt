@@ -38,3 +38,8 @@ Improved the layout of the extension description on the Chrome Web Store.
 Minor bug fix with a colour on the forums.
 Bunch of other not-mentioned fixes.
 ----------------
+V1.0.4.8
+----------------
+Removed the halloween themed background and replaced it with a fireworks-themed image.
+Minor bug fix.
+Version number updated.
