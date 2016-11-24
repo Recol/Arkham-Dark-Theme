@@ -52,7 +52,6 @@ Currently working on changing the colour of the drop-down menu border colours, p
 Removed the bottom Twitter feed as it's not needed.
 Improved the colouring schemes for transparent and dark images.
 Big code compression update, 578 lines of code has been reduced to well under 200; expect resources to load in much faster than before.
-Updated the manifest version of the extension to version 3 for compatibility reasons with future releases.
 Lightened the text of the "Members" section for clarity; just by a little for delicacy.
 Updated version number.
 ----------------
