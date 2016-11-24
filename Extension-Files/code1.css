@@ -1,572 +1,130 @@
-body {
-background:rgba(25,25,25,1)!important;
-color:#4b565d!important;
-}
-
-div.baseHtml.excerptContent {
-color:#959595!important;
-}
-
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent {
-background-color:#10181c!important;
-}
-
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent .messageUserBlock .avatarHolder {
-background-color:#10181c;
-}
-
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .sectionFooter {
-background-color:#10181c!important;
-}
-
-.navTabs {
-background-color:#1a1a1a!important;
-}
-
-.navTabs:hover {
-background-color:#141414!important;
-}
-
-.menuHeader {
-background-color:#1a1a1a!important;
-}
-
-.blockLinksList {
-background-color:#959595!important;
-}
-
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:link {
-color:#FFF!important;
-text-decoration:none!important;
-}
-
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:visited {
-color:#FFF!important;
-text-decoration:none!important;
-}
-
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:hover {
-color:#fbfbfb!important;
-text-decoration:underline!important;
-}
-
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:active {
-color:#fbfbfb!important;
-text-decoration:none!important;
-}
-
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading {
-background-color:#111!important;
-}
-
-.button.primary {
-color:#626162!important;
-}
-
-.button {
-border:0!important;
-}
-
-.button a:link {
-color:#959595!important;
-background-color:#10181c!important;
-}
-
-.button a:visited {
-color:#959595!important;
-background-color:#10181c!important;
-}
-
-.button a:active {
-color:#959595!important;
-background-color:#10181c!important;
-}
-
-.button a:hover {
-color:#959595!important;
-background-color:#10181c!important;
-}
-
-.button {
-background-color:#10181c!important;
-}
-
-#content>.titleBar {
-background-color:#111!important;
-color:#FFF!important;
-}
-
-div.messageInfo {
-color:#959595!important;
-border-color:#1a1a1a!important;
-}
-
-div.uix_message {
-background-color:#1a1a1a!important;
-}
-
-.messageUserBlock div.avatarHolder {
-background-color:#1a1a1a!important;
-}
-
-.messageUserBlock h3.userText {
-background-color:#141414!important;
-border-radius:0!important;
-}
-
-.messageUserBlock .extraUserInfo {
-background-color:#141414!important;
-border-radius:0!important;
-}
-
-.messageUserBlockToggle {
-background-color:#141414!important;
-border:1px solid #141414!important;
-}
-
-.messageUserBlock .userBanner {
-border-color:#1a1a1a!important;
-background-color:#141414!important;
-}
-
-.userBanner.bannerPrimary.wrapped span {
-background-color:#141414!important;
-}
-
-.messageList .message {
-background:#1a1a1a!important;
-}
-
-.mcPlayerMessage {
-background-color:rgba(0,0,0,0.247059)!important;
-}
-
-.message .dark_postrating.likesSummary,.dark_postrating {
-background-color:rgba(0,0,0,0.25)!important;
-border-color:rgba(0,0,0,0.25)!important;
-}
-
-.message .messageMeta .control {
-border:rgba(0,0,0,0.25)!important;
-}
-
-.message .messageMeta .uix_postbit_privateControlsMenu {
-border:rgba(0,0,0,0.25)!important;
-}
-
-.PageNav a {
-background-color:#1a1a1a!important;
-color:#959595!important;
-border:#1a1a1a!important;
-}
-
-div.pageNavLinkGroup {
-background:#1a1a1a!important;
-}
-
-.mainContainer .mainContent,.mainContainer_noSidebar {
-background-color:rgba(0,0,0,0.25)!important;
-}
-
-div.discussionList.section.sectionMain {
-background-color:rgba(44,44,44,0.87);
-border:rgba(44,44,44,0.87);
-}
-
-dl.sectionHeaders {
-background-color:#1a1a1a!important;
-}
-
-li.heading.sticky {
-background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png);
-}
-
-.discussionList .discussionListItem.sticky {
-background-color:rgba(0,0,0,0.25)!important;
-border-color:rgba(0,0,0,0.25)!important;
-}
-
-li.heading {
-background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png);
-background-color:rgba(0,0,0,0.25)!important;
-}
-
-.discussionListItem {
-background-color:rgba(0,0,0,0.25)!important;
-border-bottom:1px solid rgba(0,0,0,0.25)!important;
-}
-
-div.listBlock.posterAvatar {
-background-color:rgba(0,0,0,0.05)!important;
-}
-
-.discussionListItem .stats dl {
-border-right:1px solid rgba(0,0,0,0.5)!important;
-border-left:1px solid rgba(0,0,0,0.5)!important;
-}
-
-.discussionListItem .posterAvatar,.discussionListItem .stats {
-background-color:rgba(0,0,0,0.05)!important;
-}
-
-div.attribution.type {
-background-color:#1a1a1a;
-color:#959595;
-border-left:0;
-}
-
-.bbCodeQuote .quoteContainer {
-background-color:rgba(44,44,44,0.87)!important;
-border-left:0 solid!important;
-}
-
-.bbCodeBlock {
-border:0!important;
-}
-
-.Menu .sectionFooter {
-background-color:#1a1a1a!important;
-color:#959595!important;
-}
-
-.Menu .primaryContent {
-background-color:#1a1a1a!important;
-color:#959595!important;
-}
-
-.Menu .secondaryContent {
-background-color:#1a1a1a!important;
-color:#959595!important;
-}
-
-html {
-background-color:#1a1a1a!important;
-}
-
-.blockLinksList a,.blockLinksList label {
-background-color:#1a1a1a;
-}
-
-div.tabLinks.articlesTabLinks {
-background-color:rgba(0,0,0,.015)!important;
-}
-
-#AccountMenu .statusPoster textarea {
-background-color:rgba(0,0,0,.015);
-}
-
-div.tabLinks.forumsTabLinks {
-background-color:rgba(0,0,0,.015)!important;
-}
-
-div.quickReply.message.sectionMain {
-background-color:rgba(0,0,0,.015)!important;
-}
-
-#content .quickReply .messageUserBlock div.avatarHolder {
-background-color:#141414!important;
-}
-
-.redactor_toolbar {
-background-color:rgba(0,0,0,.2)!important;
-border-bottom:1px solid rgba(0,0,0,.2)!important;
-}
-
-.redactor_toolbar li a {
-border:1px solid rgba(0,0,0,.2)!important;
-}
-
-.nodeList .categoryStrip {
-background-color:rgba(17,17,17,0.68)!important;
-color:#959595!important;
-}
-
-.nodeList .categoryStrip .nodeTitle a {
-color:#959595!important;
-}
-
-ol.nodeList {
-background-color:rgba(17,17,17,0.68)!important;
-}
-
-#content div.pageNavLinkGroup {
-background:#080c0e!important;
-}
-
-#content dl.threadAlerts.secondaryContent {
-background:#080c0e!important;
-}
-
-div.pageContent.noBorderRadius.skrollable-between {
-background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png) no-repeat center -90px!important;
-}
-
-a.OverlayTrigger.Tooltip {
-background-color:#121212!important;
-}
-
-div.nodeInfo.forumNodeInfo {
-background-color:#121212;
-border-color:#1a1a1a!important;
-}
-
-i.iconic.shape-hexagon {
-color:#665F7A;
-}
-
-div.uix_nodeTitle_status {
-background-color:rgba(44,44,44,0.87);
-}
-
-dl {
-border:0 solid #4b565d!important;
-}
-
-ol.subForumList {
-background:rgba(0,0,0,0.25) none repeat scroll 0 0!important;
-}
-
-div.nodeInfo.linkNodeInfo {
-background-color:#121212;
-border-color:#10181c;
-border-top:0!important;
-}
-
-#uix_wrapper .thread_view .PageNav {
-background:rgba(0,0,0,0.25)!important;
-}
-
-div.titleBar {
-background-color:rgba(0,0,0,.045)!important;
-}
-
-div.mainContentBlock.section.primaryContent {
-background-color:rgba(0,0,0,0.25)!important;
-border:1px solid rgba(0,0,0,.1)!important;
-}
-
-div.section.styleChooser .heading {
-background:#111!important;
-}
-
-div.section.styleChooser .subHeading {
-background:#111!important;
-}
-
-div.section.styleChooser .primaryContent {
-background-color:rgba(44,44,44,0.87)!important;
-}
-
-div.section.styleChooser .secondaryContent {
-background-color:#101010!important;
-}
-
-div.section.styleChooser .sectionFooter {
-background-color:#111!important;
-}
-
-div.mainText.secondaryContent {
-background-color:#141414!important;
-}
-
-ul.tabs.mainTabs.Tabs {
-background:rgba(25,25,25,1)!important;
-border-bottom:0!important;
-background-color:rgba(25,25,25,1)!important;
-}
-
+body{background:rgba(25,25,25,1)!important;color:#4b565d!important}
+div.baseHtml.excerptContent{color:#959595!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent{background-color:#10181c!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent .messageUserBlock .avatarHolder{background-color:#10181c}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .sectionFooter{background-color:#10181c!important}
+.navTabs{background-color:#1a1a1a!important}
+.navTabs:hover{background-color:#141414!important}
+.menuHeader{background-color:#1a1a1a!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:link{color:#FFF!important;text-decoration:none!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:visited{color:#FFF!important;text-decoration:none!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:hover{color:#fbfbfb!important;text-decoration:underline!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:active{color:#fbfbfb!important;text-decoration:none!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading{background-color:#111!important}
+.button.primary{color:#626162!important}
+.button{border:0!important}
+.button a:link{color:#959595!important;background-color:#10181c!important}
+.button a:visited{color:#959595!important;background-color:#10181c!important}
+.button a:active{color:#959595!important;background-color:#10181c!important}
+.button a:hover{color:#959595!important;background-color:#10181c!important}
+.button{background-color:#10181c!important}
+#content>.titleBar{background-color:#111!important;color:#FFF!important}
+div.messageInfo{color:#959595!important;border-color:#1a1a1a!important}
+div.uix_message{background-color:#1a1a1a!important}
+.messageUserBlock div.avatarHolder{background-color:#1a1a1a!important}
+.messageUserBlock h3.userText{background-color:#141414!important;border-radius:0!important}
+.messageUserBlock .extraUserInfo{background-color:#141414!important;border-radius:0!important}
+.messageUserBlockToggle{background-color:#141414!important;border:1px solid #141414!important}
+.messageUserBlock .userBanner{border-color:#1a1a1a!important;background-color:#141414!important}
+.userBanner.bannerPrimary.wrapped span{background-color:#141414!important}
+.messageList .message{background:#1a1a1a!important}
+.mcPlayerMessage{background-color:rgba(0,0,0,0.247059)!important}
+.message .dark_postrating.likesSummary,.dark_postrating{background-color:rgba(0,0,0,0.25)!important;border-color:rgba(0,0,0,0.25)!important}
+.message .messageMeta .control{border:rgba(0,0,0,0.25)!important}
+.message .messageMeta .uix_postbit_privateControlsMenu{border:rgba(0,0,0,0.25)!important}
+.PageNav a{background-color:#1a1a1a!important;color:#959595!important;border:#1a1a1a!important}
+div.pageNavLinkGroup{background:#1a1a1a!important}
+.mainContainer .mainContent,.mainContainer_noSidebar{background-color:rgba(0,0,0,0.25)!important}
+div.discussionList.section.sectionMain{background-color:rgba(44,44,44,0.87);border:rgba(44,44,44,0.87)}
+dl.sectionHeaders{background-color:#1a1a1a!important}
+li.heading.sticky{background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png)}
+.discussionList .discussionListItem.sticky{background-color:rgba(0,0,0,0.25)!important;border-color:rgba(0,0,0,0.25)!important}
+li.heading{background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png);background-color:rgba(0,0,0,0.25)!important}
+.discussionListItem{background-color:rgba(0,0,0,0.25)!important;border-bottom:1px solid rgba(0,0,0,0.25)!important}
+div.listBlock.posterAvatar{background-color:rgba(0,0,0,0.05)!important}
+.discussionListItem .stats dl{border-right:1px solid rgba(0,0,0,0.5)!important;border-left:1px solid rgba(0,0,0,0.5)!important}
+.discussionListItem .posterAvatar,.discussionListItem .stats{background-color:rgba(0,0,0,0.05)!important}
+div.attribution.type{background-color:#1a1a1a;color:#959595;border-left:0}
+.bbCodeQuote .quoteContainer{background-color:rgba(44,44,44,0.87)!important;border-left:0 solid!important}
+.bbCodeBlock{border:0!important}
+.Menu .sectionFooter{background-color:#1a1a1a!important;color:#959595!important}
+.Menu .primaryContent{background-color:#1a1a1a!important;color:#959595!important}
+.Menu .secondaryContent{background-color:#1a1a1a!important;color:#959595!important}
+html{background-color:#1a1a1a!important}
+.blockLinksList label{border-color:#1a1a1a!important}
+div.tabLinks.articlesTabLinks{background-color:rgba(0,0,0,.015)!important}
+#AccountMenu .statusPoster textarea{background-color:rgba(0,0,0,.015)}
+div.tabLinks.forumsTabLinks{background-color:rgba(0,0,0,.015)!important}
+div.quickReply.message.sectionMain{background-color:rgba(0,0,0,.015)!important}
+#content .quickReply .messageUserBlock div.avatarHolder{background-color:#141414!important}
+.redactor_toolbar{background-color:rgba(0,0,0,.2)!important;border-bottom:1px solid rgba(0,0,0,.2)!important}
+.redactor_toolbar li a{border:1px solid rgba(0,0,0,.2)!important}
+.nodeList .categoryStrip{background-color:rgba(17,17,17,0.68)!important;color:#959595!important}
+.nodeList .categoryStrip .nodeTitle a{color:#959595!important}
+ol.nodeList{background-color:rgba(17,17,17,0.68)!important}
+#content div.pageNavLinkGroup{background:#080c0e!important}
+#content dl.threadAlerts.secondaryContent{background:#080c0e!important}
+div.pageContent.noBorderRadius.skrollable-between{background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png) no-repeat center -90px!important}
+a.OverlayTrigger.Tooltip{background-color:#121212!important}
+div.nodeInfo.forumNodeInfo{background-color:#121212;border-color:#1a1a1a!important}
+i.iconic.shape-hexagon{color:#665F7A}
+div.uix_nodeTitle_status{background-color:rgba(44,44,44,0.87)}
+dl{border:0 solid #4b565d!important}
+ol.subForumList{background:rgba(0,0,0,0.25) none repeat scroll 0 0!important}
+div.nodeInfo.linkNodeInfo{background-color:#121212;border-color:#10181c;border-top:0!important}
+#uix_wrapper .thread_view .PageNav{background:rgba(0,0,0,0.25)!important}
+div.titleBar{background-color:rgba(0,0,0,.045)!important}
+div.mainContentBlock.section.primaryContent{background-color:rgba(0,0,0,0.25)!important;border:1px solid rgba(0,0,0,.1)!important}
+div.section.styleChooser .heading{background:#111!important}
+div.section.styleChooser .subHeading{background:#111!important}
+div.section.styleChooser .primaryContent{background-color:rgba(44,44,44,0.87)!important}
+div.section.styleChooser .secondaryContent{background-color:#101010!important}
+div.section.styleChooser .sectionFooter{background-color:#111!important}
+div.mainText.secondaryContent{background-color:#141414!important}
+ul.tabs.mainTabs.Tabs{background:rgba(25,25,25,1)!important;border-bottom:0!important;background-color:rgba(25,25,25,1)!important}
 .tabs li a,.tabs.noLinks
-li {
-background-color:#101010!important;
-}
-
-.tabs li a:after,.tabs.noLinks li:after {
-background-color:#101010!important;
-}
-
-#profilePosts .primaryContent {
-background-color:#141414!important;
-border:0!important;
-}
-
-div.mainProfileColumn {
-border-left:0!important;
-}
-
-div.messageInfo .textCtrl {
-background-color:rgba(0,0,0,0.25)!important;
-border:0!important;
-}
-
-div.tabLinks.membersTabLinks {
-background-color:#1a1a1a!important;
-}
-
-div.xenOverlay.memberCard {
-background-color:#111!important;
-}
-
-.xenOverlay .formOverlay {
-background-color:#0a0a0a!important;
-border:0!important;
-}
-
-.xenOverlay .formOverlay .heading {
-background-color:rgba(0,0,0,0.25)!important;
-}
-
-body .AvatarEditor .avatarOption {
-background:rgba(0,0,0,0.25)!important;
-border-color:rgba(0,0,0,0.25)!important;
-}
-
-.xenOverlay .formOverlay .textCtrl {
-background-color:rgba(0,0,0,0.25)!important;
-border:0!important;
-}
-
-li.primaryContent {
-background-color:#141414!important;
-border-bottom:0!important;
-}
-
-ul.tabs {
-border-bottom:0!important;
-}
-
-.primaryContent {
-background-color:#121212!important;
-border-bottom:0!important;
-}
-
-.sectionMain {
-background-color:#111!important;
-border:0!important;
-}
-
-.heading {
-background-color:#000!important;
-}
-
-.subHeading {
-background-color:#000!important;
-}
-
-.navigationSideBar > ul {
-border:0!important;
-border-width:0!important;
-background-color:#121212!important;
-}
-
-.secondaryContent {
-background-color:#121212!important;
-border-bottom:0!important;
-}
-
-.navTabs .navTab.selected .tabLinks {
-background-color:#1a1a1a!important;
-}
-
-div.sectionMain.funbox {
-display:none!important;
-}
-
-div.funboxWrapper {
-display:none!important;
-}
-
-dl.pairsInline {
-background:rgba(17,17,17,1)!important;
-}
-
-.visitorPanel .stats dl {
-background:rgba(26,26,26,1)!important;
-}
-
-.xenith_bg_mask {
-opacity:.35!important;
-}
-
-.xenith_bg {
-background:#363e40 url(http://www.eavesopticians.co.uk/wp-content/uploads/2016/11/fireworks.jpg) 50% 0 no-repeat!important;
-}
-
-p#UserStatus.userStatus {
-background-color:rgba(25,25,25,1)!important;
-}
-
-li.threadListSeparator.sticky {
-background-color:rgba(25,25,25,1)!important;
-}
-
-li .threadListSeparator {
-background-color:rgba(25,25,25,1)!important;
-}
-
-.uix_message .messageUserInfo {
-background-color:rgba(0,0,0,0.247059)!important;
-border-right-width:0!important;
-}
-
-.messageUserInfo {
-border-right-width:0!important;
-}
-
-.tagList .tag {
-background-color:#141414!important;
-border:1px solid #141414!important;
-}
-
-span.arrow {
-display:none!important;
-}
-
-#QuickSearch .formPopup {
-background:#141414!important;
-}
-
-#QuickSearch .show {
-background-color:#141414!important;
-border:0!important;
-}
-
-fieldset#QuickSearch.show.active {
-background-color:#141414!important;
-}
-
-.threadListSeparator {
-background-color:#1a1a1a!important;
-border-top-width:0!important;
-border-bottom-width:0!important;
-}
-
-.discussionListFilters .removeFilter {
-background:#1a1a1a url(http://arkhamnetwork.org/community/styles/xenith/xenforo/gradients/form-button-white-25px.png)!important;
-border:0 solid #1a1a1a!important;
-}
-
-.discussionListFilters .removeAllFilters:hover {
-background-color:#1a1a1a!important;
-}
-
-.discussionListFilters .removeAllFilters {
-background-color:#1a1a1a!important;
-}
-
-div.sectionFooter.InlineMod.SelectionCountContainer {
-background-color:#1a1a1a!important;
-border-top:0!important;
-}
-
-#DiscussionListOptionsHandle a {
-background-color:#1a1a1a!important;
-}
-
-div.sectionFooter {
-background-color:#111!important;
-border-top:.5px solid #e8e8e8!important;
-}
-
-div.titleBar {
-	color: #626262!important;
-}
+li{background-color:#101010!important}
+.tabs li a:after,.tabs.noLinks li:after{background-color:#101010!important}
+#profilePosts .primaryContent{background-color:#141414!important;border:0!important}
+div.mainProfileColumn{border-left:0!important}
+div.messageInfo .textCtrl{background-color:rgba(0,0,0,0.25)!important;border:0!important}
+div.tabLinks.membersTabLinks{background-color:#1a1a1a!important}
+div.xenOverlay.memberCard{background-color:#111!important}
+.xenOverlay .formOverlay{background-color:#0a0a0a!important;border:0!important}
+.xenOverlay .formOverlay .heading{background-color:rgba(0,0,0,0.25)!important}
+body .AvatarEditor .avatarOption{background:rgba(0,0,0,0.25)!important;border-color:rgba(0,0,0,0.25)!important}
+.xenOverlay .formOverlay .textCtrl{background-color:rgba(0,0,0,0.25)!important;border:0!important}
+li.primaryContent{background-color:#141414!important;border-bottom:0!important}
+ul.tabs{border-bottom:0!important}
+.primaryContent{background-color:#121212!important;border-bottom:0!important}
+.sectionMain{background-color:#111!important;border:0!important}
+.heading{background-color:#000!important}
+.subHeading{background-color:#000!important}
+.navigationSideBar > ul{border:0!important;border-width:0!important;background-color:#121212!important}
+.secondaryContent{background-color:#121212!important;border-bottom:0!important}
+.navTabs .navTab.selected .tabLinks{background-color:#1a1a1a!important}
+div.sectionMain.funbox{display:none!important}
+div.funboxWrapper{display:none!important}
+dl.pairsInline{background:rgba(17,17,17,1)!important}
+.visitorPanel .stats dl{background:rgba(26,26,26,1)!important}
+.xenith_bg_mask{opacity:.35!important}
+.xenith_bg{background:#363e40 url(http://www.eavesopticians.co.uk/wp-content/uploads/2016/11/fireworks.jpg) 50% 0 no-repeat!important}
+p#UserStatus.userStatus{background-color:rgba(25,25,25,1)!important}
+li.threadListSeparator.sticky{background-color:rgba(25,25,25,1)!important}
+li .threadListSeparator{background-color:rgba(25,25,25,1)!important}
+.uix_message .messageUserInfo{background-color:rgba(0,0,0,0.247059)!important;border-right-width:0!important}
+.messageUserInfo{border-right-width:0!important}
+.tagList .tag{background-color:#141414!important;border:1px solid #141414!important}
+span.arrow{display:none!important}
+#QuickSearch .formPopup{background:#141414!important}
+#QuickSearch .show{background-color:#141414!important;border:0!important}
+fieldset#QuickSearch.show.active{background-color:#141414!important}
+.threadListSeparator{background-color:#1a1a1a!important;border-top-width:0!important;border-bottom-width:0!important}
+.discussionListFilters .removeFilter{background:#1a1a1a url(http://arkhamnetwork.org/community/styles/xenith/xenforo/gradients/form-button-white-25px.png)!important;border:0 solid #1a1a1a!important}
+.discussionListFilters .removeAllFilters:hover{background-color:#1a1a1a!important}
+.discussionListFilters .removeAllFilters{background-color:#1a1a1a!important}
+div.sectionFooter.InlineMod.SelectionCountContainer{background-color:#1a1a1a!important;border-top:0!important}
+#DiscussionListOptionsHandle a{background-color:#1a1a1a!important}
+div.sectionFooter{background-color:#111!important;border-top:.5px solid #e8e8e8!important}
+div.titleBar{color:#626262!important}
+div.timeline-Widget{display:none!important}
