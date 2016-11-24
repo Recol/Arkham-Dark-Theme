@@ -55,3 +55,7 @@ Big code compression update, 578 lines of code has been reduced to well under 20
 Lightened the text of the "Members" section for clarity; just by a little for delicacy.
 Updated version number.
 ----------------
+V1.0.5
+----------------
+Issued an emergency update to address an element update.
+Reverted the manifest update due to it being in it's experimental state.
