@@ -30,7 +30,7 @@ Improved the layout of recent releases for clarity in the repository.
 V1.0.4.6
 ----------------
 Code has been compressed by 13%, reducing the overall file size of the extension and meaning that the resources can be loaded in much quicker than on the last release.
-Colours have been converted to the hexadecimal format for quicker execution than the usual RGB.
+Colours have been converted to the hexadecimal format for quicker execution than using RGB.
 Uploaded a screenshot to the Chrome Web Store.
 Fixed a minor text issue with the extension description.
 Updated version number.
@@ -43,3 +43,16 @@ V1.0.4.8
 Removed the halloween themed background and replaced it with a fireworks-themed image.
 Minor bug fix.
 Version number updated.
+----------------
+V1.0.4.9
+----------------
+Removed duplicate elements.
+Fixed a minor colouring issue which was conflicting with transparent images.
+Currently working on changing the colour of the drop-down menu border colours, proving difficult however.
+Removed the bottom Twitter feed as it's not needed.
+Improved the colouring schemes for transparent and dark images.
+Big code compression update, 578 lines of code has been reduced to well under 200; expect resources to load in much faster than before.
+Updated the manifest version of the extension to version 3 for compatibility reasons with future releases.
+Lightened the text of the "Members" section for clarity; just by a little for delicacy.
+Updated version number.
+----------------
