@@ -59,3 +59,9 @@ V1.0.5
 ----------------
 Issued an emergency update to address an element update.
 Reverted the manifest update due to it being in it's experimental state.
+----------------
+V1.0.5.1
+----------------
+Updated the extension to celebrate the holiday season.
+Minor text fixes on the Chrome store.
+----------------
