@@ -65,3 +65,9 @@ V1.0.5.1
 Updated the extension to celebrate the holiday season.
 Minor text fixes on the Chrome store.
 ----------------
+V1.0.5.2
+----------------
+Compatibility update to fix element name changes.
+Removed the christmas picture and replaced with a more subtle image.
+Minor text fixes on the "General" section.
+----------------
