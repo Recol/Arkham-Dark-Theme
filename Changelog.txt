@@ -71,3 +71,11 @@ Compatibility update to fix element name changes.
 Removed the christmas picture and replaced with a more subtle image.
 Minor text fixes on the "General" section.
 ----------------
+V1.5.0.3
+----------------
+Fixed padding issues with text.
+Eliminated colour coding issues with the topic titles. (Darker would be appearing when it should have been #191919).
+Improved the colour schematics with the user titles.
+Lightened the text ever so slightly.
+Other bug fixes.
+----------------
