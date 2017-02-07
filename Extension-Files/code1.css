@@ -63,7 +63,7 @@ div.quickReply.message.sectionMain{background-color:rgba(0,0,0,.015)!important}
 .nodeList .categoryStrip{background-color:rgba(17,17,17,0.68)!important;color:#959595!important}
 .nodeList .categoryStrip .nodeTitle a{color:#959595!important}
 ol.nodeList{background-color:rgba(17,17,17,0.68)!important}
-#content div.pageNavLinkGroup{background:#080c0e!important}
+#content div.pageNavLinkGroup{background:#191919!important}
 #content dl.threadAlerts.secondaryContent{background:#080c0e!important}
 div.pageContent.noBorderRadius.skrollable-between{background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png) no-repeat center -90px!important}
 a.OverlayTrigger.Tooltip{background-color:#121212!important}
@@ -127,5 +127,5 @@ fieldset#QuickSearch.show.active{background-color:#141414!important}
 div.sectionFooter.InlineMod.SelectionCountContainer{background-color:#1a1a1a!important;border-top:0!important}
 #DiscussionListOptionsHandle a{background-color:#1a1a1a!important}
 div.sectionFooter{background-color:#111!important;border-top:.5px solid #e8e8e8!important}
-div.titleBar{color:#626262!important}
-div.timeline-Widget{display:none!important}
+div.titleBar{color:#626262!important; background-color: #191919 !important;}
+div.timeline-Widget{display:none!important;}
