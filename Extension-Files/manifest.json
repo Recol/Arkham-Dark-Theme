@@ -1,6 +1,6 @@
 {
 	"name": "Arkham Dark Theme",
-	"version": "1.0.5.3",
+	"version": "1.0.5.4",
 	"manifest_version": 2,
 	"description": "Used to darken the look of the Arkham Network forums.",
 	"short_name": "ADT",
@@ -12,7 +12,7 @@
 
 	},
 	"content_scripts": [{
-		"matches": ["http://arkhamnetwork.org/community/*"],
+		"matches": ["http://arkhamnetwork.org/community/*", "https://skyblocky.com/forums/*],
 		"css": ["code1.css"]
 	}]
 }
