@@ -71,7 +71,7 @@ Compatibility update to fix element name changes.
 Removed the christmas picture and replaced with a more subtle image.
 Minor text fixes on the "General" section.
 ----------------
-V1.5.0.3
+V1.0.5.3
 ----------------
 Fixed padding issues with text.
 Eliminated colour coding issues with the topic titles. (Darker would be appearing when it should have been #191919).
@@ -79,3 +79,20 @@ Improved the colour schematics with the user titles.
 Lightened the text ever so slightly.
 Other bug fixes.
 ----------------
+V1.0.5.5
+----------------
+Updated to support the new layout of the main article timeline on Arkham.
+Updated to support "Profile postings" under a user's profile.
+Updated to support "Recent activity" under a user's profile.
+White borders have been removed on a user's profile.
+User banners have now been themed.
+Dark outlines have now been removed and are now the same as the main colouring of the body.
+Total revamp of the way colours are sectioned with each other.
+Removed other white borders in other sections.
+Fixed banners on Skyblocky not appearing black.
+An avatar background on a thread has now been changed to transparent.
+Removed the darkening effect when scrolling on the navigation tabs.
+Other bug fixes which were reported have now been fixed.
+General code updates.
+----------------
+Fixed 
