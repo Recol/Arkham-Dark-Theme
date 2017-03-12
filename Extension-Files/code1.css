@@ -1,23 +1,23 @@
 body{background:rgba(25,25,25,1)!important;color:#4b565d!important}
 div.baseHtml.excerptContent{color:#959595!important}
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent{background-color:#10181c!important}
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent .messageUserBlock .avatarHolder{background-color:#10181c}
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .sectionFooter{background-color:#10181c!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent{background-color:transparent!important; color:#959595!important;}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent .messageUserBlock .avatarHolder{background-color:transparent !important;}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .sectionFooter{background-color:#111111!important}
 .navTabs{background-color:#1a1a1a!important}
-.navTabs:hover{background-color:#141414!important}
+.navTabs:hover{background-color:#1a1a1a!important}
 .menuHeader{background-color:#1a1a1a!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:link{color:#FFF!important;text-decoration:none!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:visited{color:#FFF!important;text-decoration:none!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:hover{color:#fbfbfb!important;text-decoration:underline!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:active{color:#fbfbfb!important;text-decoration:none!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading{background-color:#111!important}
-.button.primary{color:#626162!important}
+.button.primary{color:#626162!important;}
 .button{border:0!important}
 .button a:link{color:#959595!important;background-color:#10181c!important}
 .button a:visited{color:#959595!important;background-color:#10181c!important}
 .button a:active{color:#959595!important;background-color:#10181c!important}
 .button a:hover{color:#959595!important;background-color:#10181c!important}
-.button{background-color:#10181c!important}
+.button{background-color:#141414!important}
 #content>.titleBar{background-color:#111!important;color:#FFF!important}
 div.messageInfo{color:#959595!important;border-color:#1a1a1a!important}
 div.uix_message{background-color:#1a1a1a!important}
@@ -106,7 +106,7 @@ ul.tabs{border-bottom:0!important}
 .navTabs .navTab.selected .tabLinks{background-color:#1a1a1a!important}
 div.sectionMain.funbox{display:none!important}
 div.funboxWrapper{display:none!important}
-dl.pairsInline{background:rgba(17,17,17,1)!important}
+dl.pairsInline{background:#141414)!important}
 .visitorPanel .stats dl{background:rgba(26,26,26,1)!important}
 .xenith_bg_mask{opacity:.35!important}
 .xenith_bg{background:#363e40 url(https://apod.nasa.gov/apod/image/1604/AuroraFalls_Kristjansson_1920.jpg) 50% 0 no-repeat!important}
@@ -124,8 +124,16 @@ fieldset#QuickSearch.show.active{background-color:#141414!important}
 .discussionListFilters .removeFilter{background:#1a1a1a url(http://arkhamnetwork.org/community/styles/xenith/xenforo/gradients/form-button-white-25px.png)!important;border:0 solid #1a1a1a!important}
 .discussionListFilters .removeAllFilters:hover{background-color:#1a1a1a!important}
 .discussionListFilters .removeAllFilters{background-color:#1a1a1a!important}
-div.sectionFooter.InlineMod.SelectionCountContainer{background-color:#1a1a1a!important;border-top:0!important}
+div.sectionFooter.InlineMod.SelectionCountContainer{background-color:#1a1a1a!important;border-top:0!important;border-left: 0px !important; border-right:0px !important;}
 #DiscussionListOptionsHandle a{background-color:#1a1a1a!important}
 div.sectionFooter{background-color:#111!important;border-top:.5px solid #e8e8e8!important}
 div.titleBar{color:#626262!important; background-color: #191919 !important;}
 div.timeline-Widget{display:none!important;}
+.profilePage .profileContent:not(#profilePosts){background-color: #141414 !important;}
+div.primaryContent table {border-color: #121212;}
+h3.subHeading.textWithCount {border: 0 solid #121212;}
+.profilePage .mast .sectionFooter{border-left: 0px !important; border-right: 0px !important; border-top: 0px !important;}
+em.userBanner.bannerPrimary{background-color: #141414 !important; border-color: #141414 !important;}
+.userBanner.bannerYellow.wrapped span {background-color: #141414 !important;}
+.userBanner.bannerRed.wrapped span {background-color: #141414 !important;}
+.userBanner.bannerLightGreen.wrapped span {background-color: #141414 !important;}
