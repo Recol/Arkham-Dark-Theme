@@ -100,7 +100,8 @@ V1.0.5.6
 The extension will now run in the background so that snow which is falling on the forums can be blocked from loading.
 Scrolling performance has been improved upon once all the resources have loaded.
 Added "background.js" to deny the Javascript script from loading.
-Updated the manifest file. 
+Updated the manifest file.
+Extension will now target Cloudflare's snowstorm Javascript file and prevent it from loading.
 Removed unneeded code, tweaked transparency values for certain buttons.
 Minor bug fixes.
 ----------------
