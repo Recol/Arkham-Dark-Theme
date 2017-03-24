@@ -1,8 +1,8 @@
 {
 	"name": "Arkham Dark Theme",
-	"version": "1.0.5.6",
+	"version": "1.0.5.7",
 	"manifest_version": 2,
-	"description": "Used to darken the look of the Arkham Network forums and Skyblocky.",
+	"description": "Used to darken the look of the Arkham Network forums, Skyblocky forums and MCPrison forums.",
 	"short_name": "ADT",
 
 	"icons": {
@@ -20,7 +20,7 @@
        "scripts": ["background.js"]
 	},
 	"content_scripts": [{
-		"matches": ["http://arkhamnetwork.org/community/*", "https://skyblocky.com/forums/*"],
+		"matches": ["http://arkhamnetwork.org/community/*", "https://skyblocky.com/forums/*", "https://mcprison.com/forums/*"],
 		"css": ["code1.css"]
 	}]
 }
