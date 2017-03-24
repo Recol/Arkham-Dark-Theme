@@ -105,3 +105,6 @@ Extension will now target Cloudflare's snowstorm Javascript file and prevent it 
 Removed unneeded code, tweaked transparency values for certain buttons.
 Minor bug fixes.
 ----------------
+V1.0.5.7
+----------------
+Added support for MCPrison, everything "should" be working correctly.
