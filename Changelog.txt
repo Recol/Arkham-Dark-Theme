@@ -112,3 +112,9 @@ Added support for MCPrison, everything "should" be working correctly.
 V1.0.5.8
 ----------------
 Added support for CraftedWild.
+----------------
+V1.0.5.9
+----------------
+Navigation bar is now transparent on all forums.
+Increased contrast of certain text.
+Hover elements for dark sections has been removed.
