@@ -3,8 +3,8 @@ div.baseHtml.excerptContent{color:#959595!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent{background-color:transparent!important; color:#959595!important;}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent .messageUserBlock .avatarHolder{background-color:transparent !important;}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .sectionFooter{background-color:#111111!important}
-.navTabs{background-color:#1a1a1a!important}
-.navTabs:hover{background-color:#1a1a1a!important}
+.navTabs{background-color:transparent!important}
+.navTabs:hover{background-color:#transparent!important}
 .menuHeader{background-color:#1a1a1a!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:link{color:#FFF!important;text-decoration:none!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .subHeading a:visited{color:#FFF!important;text-decoration:none!important}
@@ -89,7 +89,7 @@ li{background-color:#101010!important}
 #profilePosts .primaryContent{background-color:#141414!important;border:0!important}
 div.mainProfileColumn{border-left:0!important}
 div.messageInfo .textCtrl{background-color:rgba(0,0,0,0.25)!important;border:0!important}
-div.tabLinks.membersTabLinks{background-color:#1a1a1a!important}
+div.tabLinks.membersTabLinks{background-color:#transparent!important}
 div.xenOverlay.memberCard{background-color:#111!important}
 .xenOverlay .formOverlay{background-color:#0a0a0a!important;border:0!important}
 .xenOverlay .formOverlay .heading{background-color:rgba(0,0,0,0.25)!important}
@@ -103,7 +103,7 @@ ul.tabs{border-bottom:0!important}
 .subHeading{background-color:#000!important}
 .navigationSideBar > ul{border:0!important;border-width:0!important;background-color:#121212!important}
 .secondaryContent{background-color:#121212!important;border-bottom:0!important}
-.navTabs .navTab.selected .tabLinks{background-color:#1a1a1a!important}
+.navTabs .navTab.selected .tabLinks{background-color:#transparent!important}
 div.sectionMain.funbox{display:none!important}
 div.funboxWrapper{display:none!important}
 dl.pairsInline{background:#141414)!important}
@@ -137,4 +137,3 @@ em.userBanner.bannerPrimary{background-color: #141414 !important; border-color: 
 .userBanner.bannerYellow.wrapped span {background-color: #141414 !important;}
 .userBanner.bannerRed.wrapped span {background-color: #141414 !important;}
 .userBanner.bannerLightGreen.wrapped span {background-color: #141414 !important;}
-script {display: hidden;}
