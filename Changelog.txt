@@ -52,3 +52,7 @@ All colouring schemes for menus have undergone a colour rework.
 General bug fixes.
 Changes can now be viewed by clicking the extension.
 ----------------
+V1.0.6.1
+----------------
+Spoilers have been fixed. (Blame caleb)
+Bordering around spoilers have been darkened.
