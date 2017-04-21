@@ -47,7 +47,7 @@ div.listBlock.posterAvatar{background-color:rgba(0,0,0,0.05)!important}
 div.attribution.type{background-color:#1a1a1a;color:#959595;border-left:0}
 .bbCodeQuote .quoteContainer{background-color:rgba(44,44,44,0.87)!important;border-left:0 solid!important}
 .bbCodeBlock{border:0!important}
-.Menu .sectionFooter{background-color:#1a1a1a!important;color:#959595!important}
+.Menu .sectionFooter{background-color:#1a1a1a!important;color:#959595!important; border-top:0.5px solid #1a1a1a !important;}
 .Menu .primaryContent{background-color:#1a1a1a!important;color:#959595!important}
 .Menu .secondaryContent{background-color:#1a1a1a!important;color:#959595!important}
 html{background-color:#1a1a1a!important}
@@ -137,3 +137,7 @@ em.userBanner.bannerPrimary{background-color: #141414 !important; border-color: 
 .userBanner.bannerYellow.wrapped span {background-color: #141414 !important;}
 .userBanner.bannerRed.wrapped span {background-color: #141414 !important;}
 .userBanner.bannerLightGreen.wrapped span {background-color: #141414 !important;}
+.navPopup .listItem {border-bottom-color:#1a1a1a !important; background-color:#1a1a1a !important;}
+#XenForoUniq0 .blockLinksList a, .blockLinksList label {border-color:#1a1a1a !important; color:#fff !important; background-color:#1a1a1a !important;} /*Arkham's*/
+.Menu {background-color:#1a1a1a !important;}
+#header .blockLinksList a, .blockLinksList label {border-color:#1a1a1a !important; color:#fff !important; background-color:#transparent !important;} /*CraftedWild's*/
