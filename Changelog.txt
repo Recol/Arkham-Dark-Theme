@@ -56,3 +56,7 @@ V1.0.6.1
 ----------------
 Spoilers have been fixed. (Blame caleb)
 Bordering around spoilers have been darkened.
+----------------
+V1.0.6.2
+----------------
+Custom icon has been added with the theme.
