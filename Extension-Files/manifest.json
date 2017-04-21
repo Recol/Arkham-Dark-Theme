@@ -1,14 +1,13 @@
 {
 	"name": "Arkham Dark Theme",
-	"version": "1.0.6.1",
+	"version": "1.0.6.2",
 	"manifest_version": 2,
 	"description": "Used to darken the look of the Arkham Network forums, Skyblocky forums, MCPrison forums and CraftedWild's forums.",
 	"short_name": "ADT",
 
 	"icons": {
-		"32": "icon.png",
-		"48": "icon3.png",
-		"128": "icon2.png"
+		"128": "icon3.png",
+		"256": "icon2.png"
 
 	},
 	
