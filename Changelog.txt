@@ -118,3 +118,16 @@ V1.0.5.9
 Navigation bar is now transparent on all forums.
 Increased contrast of certain text.
 Hover elements for dark sections has been removed.
+----------------
+v1.0.6
+----------------
+CraftedWild's titles located on the top have been revamped. 
+Arkham's titles located on the top have been revamped.
+Hover elements have been removed.
+Scrolling on a notification will no longer appear white. 
+Notification elements have been reworked. 
+Bordering for notifications have been removed.
+All colouring schemes for menus have undergone a colour rework. 
+General bug fixes.
+Changes can now be viewed by clicking the extension.
+----------------
