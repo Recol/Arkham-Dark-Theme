@@ -138,6 +138,8 @@ em.userBanner.bannerPrimary{background-color: #141414 !important; border-color: 
 .userBanner.bannerRed.wrapped span {background-color: #141414 !important;}
 .userBanner.bannerLightGreen.wrapped span {background-color: #141414 !important;}
 .navPopup .listItem {border-bottom-color:#1a1a1a !important; background-color:#1a1a1a !important;}
-#XenForoUniq0 .blockLinksList a, .blockLinksList label {border-color:#1a1a1a !important; color:#fff !important; background-color:#1a1a1a !important;} /*Arkham's*/
+#XenForoUniq0 .blockLinksList a, .blockLinksList label {border-color:#1a1a1a !important; color:#fff !important; background-color:#1a1a1a !important;}
+#XenForoUniq1 .blockLinksList a, .blockLinksList label {border-color:#1a1a1a !important; color:#fff !important; background-color:#1a1a1a !important;}
+#XenForo #AccountMenu .blockLinksList a, .blockLinksList label {border-color:#1a1a1a !important; color:#fff !important; background-color:#1a1a1a !important;} /*Arkham's*/
 .Menu {background-color:#1a1a1a !important;}
 #header .blockLinksList a, .blockLinksList label {border-color:#1a1a1a !important; color:#fff !important; background-color:#transparent !important;} /*CraftedWild's*/
