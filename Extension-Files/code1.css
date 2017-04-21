@@ -143,3 +143,4 @@ em.userBanner.bannerPrimary{background-color: #141414 !important; border-color: 
 #XenForo #AccountMenu .blockLinksList a, .blockLinksList label {border-color:#1a1a1a !important; color:#fff !important; background-color:#1a1a1a !important;} /*Arkham's*/
 .Menu {background-color:#1a1a1a !important;}
 #header .blockLinksList a, .blockLinksList label {border-color:#1a1a1a !important; color:#fff !important; background-color:#transparent !important;} /*CraftedWild's*/
+.hasJs .bbCodeSpoilerText {background-color: #1a1a1a !important; border: 1px rgb(30,30,30) !important;}
