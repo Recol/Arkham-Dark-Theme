@@ -1,6 +1,6 @@
 Changes for version 1.0.1 - 1.0.5.3 can be found here: https://pastebin.com/cuuee2VS
 ----------------
-V1.0.5.5
+V1.0.5.5 - Major
 ----------------
 Updated to support the new layout of the main article timeline on Arkham.
 Updated to support "Profile postings" under a user's profile.
@@ -16,7 +16,7 @@ Removed the darkening effect when scrolling on the navigation tabs.
 Other bug fixes which were reported have now been fixed.
 General code updates.
 ----------------
-V1.0.5.6
+V1.0.5.6 - Minor
 ----------------
 The extension will now run in the background so that snow which is falling on the forums can be blocked from loading.
 Scrolling performance has been improved upon once all the resources have loaded.
@@ -26,21 +26,21 @@ Extension will now target Cloudflare's snowstorm Javascript file and prevent it 
 Removed unneeded code, tweaked transparency values for certain buttons.
 Minor bug fixes.
 ----------------
-V1.0.5.7
+V1.0.5.7 - Major
 ----------------
 Added support for MCPrison, everything "should" be working correctly.
 ----------------
-V1.0.5.8
+V1.0.5.8 - Beta
 ----------------
 Added support for CraftedWild.
 ----------------
-V1.0.5.9
+V1.0.5.9 - Beta
 ----------------
 Navigation bar is now transparent on all forums.
 Increased contrast of certain text.
 Hover elements for dark sections has been removed.
 ----------------
-v1.0.6
+v1.0.6 - Major
 ----------------
 CraftedWild's titles located on the top have been revamped. 
 Arkham's titles located on the top have been revamped.
@@ -52,11 +52,50 @@ All colouring schemes for menus have undergone a colour rework.
 General bug fixes.
 Changes can now be viewed by clicking the extension.
 ----------------
-V1.0.6.1
+V1.0.6.1 - Beta
 ----------------
 Spoilers have been fixed. (Blame caleb)
 Bordering around spoilers have been darkened.
 ----------------
-V1.0.6.2
+V1.0.6.2 - Beta
 ----------------
 Custom icon has been added with the theme.
+----------------
+V1.0.6.3 - Major
+----------------
+Buttons have been darkened on all forums.
+Colouring scheme with articles has been overhauled.
+Colour schemes for the body and dividers have been improved.
+Total code overhaul to improve load times and to improve colour co-ordinance.
+Poll section has been darkened.
+Attachments have been darkened.
+Borders have been removed from attachments.
+Borders located on the main section with "General Discussion" etc has been darkened.
+Button colour-coordination with the rest of theme has been improved.
+Shadowing has been introduced to many sections of each forum.
+Code for element classes has been adjusted for better eye clarity.
+Hover elements for polls have been darkened. (Hovering over a poll option will now darken)
+Fixed text not appearing clearly.
+Many sections are now transparent to match with the body.
+All forums now follow the Material Design layout.
+Layering has been improved.
+Improvements relating to the manifest.json.
+The extension image has been revamped.
+Images now scale better when viewed upon in chrome://extensions.
+Shadowing has been introduced to user profiles.
+Dividers for threads have been darkened.
+Backgrounds for thread sections have been darkened more than before.
+Clarity across the entire theme has been improved.
+Replaced images on the Chrome Web Store with updated images and removed obselete images.
+Improvements to the text positioning on the GUI.
+Fixed issues with backgrounds appearing white on buttons.
+Laying the groundwork for turning the "Support" bubbles dark.
+Tweaked padding values for text.
+Removed several RGBA values and replaced with hexadecimal values.
+Improved text clarity across all forums.
+Bugs relating to CraftedWild have been resolved.
+Improvements to backgrounds for reaction emotes.
+User profile dividers have been darkened.
+Fixed small minor issues with text appearing black instead of white. (Inversion issue)
+----------------
+
