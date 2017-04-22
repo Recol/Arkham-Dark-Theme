@@ -1,4 +1,4 @@
-body{background:rgba(25,25,25,1)!important;color:#4b565d!important}
+body{background:#121212!important;color:#4b565d!important}
 div.baseHtml.excerptContent{color:#959595!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent{background-color:transparent!important; color:#959595!important;}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent .messageUserBlock .avatarHolder{background-color:transparent !important;}
@@ -34,9 +34,9 @@ div.uix_message{background-color:#1a1a1a!important}
 .message .messageMeta .uix_postbit_privateControlsMenu{border:rgba(0,0,0,0.25)!important}
 .PageNav a{background-color:#1a1a1a!important;color:#959595!important;border:#1a1a1a!important}
 div.pageNavLinkGroup{background:#1a1a1a!important}
-.mainContainer .mainContent,.mainContainer_noSidebar{background-color:rgba(0,0,0,0.25)!important}
+.mainContainer .mainContent,.mainContainer_noSidebar{background-color:transparent!important}
 div.discussionList.section.sectionMain{background-color:rgba(44,44,44,0.87);border:rgba(44,44,44,0.87)}
-dl.sectionHeaders{background-color:#1a1a1a!important}
+dl.sectionHeaders{background-color:#111111!important}
 li.heading.sticky{background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png)}
 .discussionList .discussionListItem.sticky{background-color:rgba(0,0,0,0.25)!important;border-color:rgba(0,0,0,0.25)!important}
 li.heading{background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png);background-color:rgba(0,0,0,0.25)!important}
@@ -60,7 +60,7 @@ div.quickReply.message.sectionMain{background-color:rgba(0,0,0,.015)!important}
 #content .quickReply .messageUserBlock div.avatarHolder{background-color:#141414!important}
 .redactor_toolbar{background-color:rgba(0,0,0,.2)!important;border-bottom:1px solid rgba(0,0,0,.2)!important}
 .redactor_toolbar li a{border:1px solid rgba(0,0,0,.2)!important}
-.nodeList .categoryStrip{background-color:rgba(17,17,17,0.68)!important;color:#959595!important}
+.nodeList .categoryStrip{background-color:rgba(17,17,17,0.68)!important;color:#959595!important; border-bottom:#202020 !important;}
 .nodeList .categoryStrip .nodeTitle a{color:#959595!important}
 ol.nodeList{background-color:rgba(17,17,17,0.68)!important}
 #content div.pageNavLinkGroup{background:#191919!important}
@@ -97,8 +97,8 @@ body .AvatarEditor .avatarOption{background:rgba(0,0,0,0.25)!important;border-co
 .xenOverlay .formOverlay .textCtrl{background-color:rgba(0,0,0,0.25)!important;border:0!important}
 li.primaryContent{background-color:#141414!important;border-bottom:0!important}
 ul.tabs{border-bottom:0!important}
-.primaryContent{background-color:#121212!important;border-bottom:0!important}
-.sectionMain{background-color:#111!important;border:0!important}
+.primaryContent{background-color:#121212!important;border-bottom:0!important; border:1px solid #151212 !important;}}
+.sectionMain{background-color:#111111!important;border:0!important}
 .heading{background-color:#000!important}
 .subHeading{background-color:#000!important}
 .navigationSideBar > ul{border:0!important;border-width:0!important;background-color:#121212!important}
@@ -111,11 +111,11 @@ dl.pairsInline{background:#141414)!important}
 .xenith_bg_mask{opacity:.35!important}
 .xenith_bg{background:#363e40 url(https://apod.nasa.gov/apod/image/1604/AuroraFalls_Kristjansson_1920.jpg) 50% 0 no-repeat!important}
 p#UserStatus.userStatus{background-color:rgba(25,25,25,1)!important}
-li.threadListSeparator.sticky{background-color:rgba(25,25,25,1)!important}
-li .threadListSeparator{background-color:rgba(25,25,25,1)!important}
+li.threadListSeparator.sticky{background-color:#111111!important}
+li.threadListSeparator{background-color:#111111!important}
 .uix_message .messageUserInfo{background-color:rgba(0,0,0,0.247059)!important;border-right-width:0!important}
 .messageUserInfo{border-right-width:0!important}
-.tagList .tag{background-color:#141414!important;border:1px solid #141414!important}
+.tagList .tag{background-color:#121212!important;border:1px solid #141414!important}
 span.arrow{display:none!important}
 #QuickSearch .formPopup{background:#141414!important}
 #QuickSearch .show{background-color:#141414!important;border:0!important}
@@ -144,3 +144,21 @@ em.userBanner.bannerPrimary{background-color: #141414 !important; border-color: 
 .Menu {background-color:#1a1a1a !important;}
 #header .blockLinksList a, .blockLinksList label {border-color:#1a1a1a !important; color:#fff !important; background-color:#transparent !important;} /*CraftedWild's*/
 .hasJs .bbCodeSpoilerText {background-color: #1a1a1a !important; border: 1px rgb(30,30,30) !important;}
+.attachedFiles .attachmentList {background: #1a1a1a url(styles/xenith/xenforo/gradients/category-23px-light.png) repeat-x top !important; -webkit-border-radius: 0px !important;}}
+div.boxModelFixer.primaryContent {border: 1px solid #151212 !important;}
+.attachedFiles .attachedFilesHeader {background-color: #1a1a1a !important; color:#fff !important;}
+.attachment .thumbnail{border-right: 1px solid #151212 !important;}
+.titleBar h1 {background-color:#121212 !important;}
+#pageDescription{background-color:#121212 !important; margin-top: 0px !important;}
+#headerMover #content div.PageNav{background-color:#121212 !important;}
+.pageNavLinkGroup .linkGroup{background-color:#121212 !important;}
+.discussionListItems{background-color:#121212 !important;}
+#articlesGrid div.sectionMain {background-color:#111111 !important;}
+div.questionMark{background-color:#121212 !important;}
+#uix_wrapper #headerMover #content div.pageNavLinkGroup{background:#121212 !important;}
+.pollBlock .pollOption label:hover{background:#101010 !important;}
+.sectionMain {background-color:transparent !important;}
+.node .unread .nodeIcon.hasGlyph{background-color:#202020 !important;}
+.node .nodeIcon.hasGlyph{border:1px solid #202020 !important; background-color:#202020 !important;}
+.node.level_2 .nodeInfo:before{background-color:#202020 !important;}
+#uix_jumpToFixed {background-color:#202020 !important;}
