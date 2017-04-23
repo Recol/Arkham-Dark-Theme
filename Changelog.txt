@@ -60,4 +60,12 @@ Improvements to backgrounds for reaction emotes.
 User profile dividers have been darkened.
 Fixed small minor issues with text appearing black instead of white. (Inversion issue)
 ----------------
-
+V1.0.6.4 - Minor
+----------------
+Footer has been removed at the bottom of each forum.
+Text has been darkened for minor sections.
+Image for the background is now hosted on Github for quicker image processing.
+Improved load times.
+Cleaned up CSS code.
+Minor bug fixes.
+----------------
