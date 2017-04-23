@@ -109,7 +109,7 @@ div.funboxWrapper{display:none!important}
 dl.pairsInline{background:#141414)!important}
 .visitorPanel .stats dl{background:rgba(26,26,26,1)!important}
 .xenith_bg_mask{opacity:.35!important}
-.xenith_bg{background:#363e40 url(https://apod.nasa.gov/apod/image/1604/AuroraFalls_Kristjansson_1920.jpg) 50% 0 no-repeat!important}
+.xenith_bg{background:#363e40 url(https://raw.githubusercontent.com/Recol/Arkham-Dark-Theme/master/Extension-Files/bg.jpg) 50% 0 no-repeat!important}
 p#UserStatus.userStatus{background-color:rgba(25,25,25,1)!important}
 li.threadListSeparator.sticky{background-color:#111111!important}
 li.threadListSeparator{background-color:#111111!important}
@@ -162,3 +162,6 @@ div.questionMark{background-color:#121212 !important;}
 .node .nodeIcon.hasGlyph{border:1px solid #202020 !important; background-color:#202020 !important;}
 .node.level_2 .nodeInfo:before{background-color:#202020 !important;}
 #uix_jumpToFixed {background-color:#202020 !important;}
+.bigFooter .pageContent {display:none !important;}
+.footerLegal .pageContent {display:none !important;}
+.footer .pageContent {display:none !important;}
