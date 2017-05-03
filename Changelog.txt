@@ -69,3 +69,9 @@ Improved load times.
 Cleaned up CSS code.
 Minor bug fixes.
 ----------------
+V1.0.6.5 - Minor
+----------------
+Fixed up background colouring for user profiles.
+Slightly increased contrast for buttons, not noticeable.
+Minor bug fixes.
+----------------
