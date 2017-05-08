@@ -75,3 +75,8 @@ Fixed up background colouring for user profiles.
 Slightly increased contrast for buttons, not noticeable.
 Minor bug fixes.
 ----------------
+V1.0.6.6 - Minor
+----------------
+Minor bug fixes.
+Compressed CSS code even further.
+----------------
