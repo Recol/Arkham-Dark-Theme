@@ -80,3 +80,12 @@ V1.0.6.6 - Minor
 Minor bug fixes.
 Compressed CSS code even further.
 ----------------
+V1.0.6.7 - Major
+----------------
+Issues with dark titles under the "Members" section for staff have been resolved.
+Images are now fetched internally and as such are no longer required to be fetched from Github.
+Removed Github from CSS reference.
+Prioritised certain CSS code.
+Updated manifest resources.
+Fixed multiple clarity issues which occurred in Skyblocky.
+----------------
