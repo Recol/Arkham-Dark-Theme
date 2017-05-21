@@ -89,3 +89,7 @@ Prioritised certain CSS code.
 Updated manifest resources.
 Fixed multiple clarity issues which occurred in Skyblocky.
 ----------------
+V1.0.6.8 - Minor
+----------------
+Emergency patch to include compressed image.
+----------------
