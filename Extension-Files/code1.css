@@ -1,5 +1,5 @@
 body{background:#121212!important;color:#4b565d!important}
-.xenith_bg{background: url('chrome-extension://__MSG_@@extension_id__/images/bg.jpg') 50% 0 no-repeat!important}
+.xenith_bg{background: url('chrome-extension://__MSG_@@extension_id__/images/bg-min.jpg') 50% 0 no-repeat!important}
 .xenith_bg_mask{opacity:.35!important}
 div.baseHtml.excerptContent{color:#959595!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent{background-color:transparent!important;color:#959595!important}
