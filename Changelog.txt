@@ -93,3 +93,12 @@ V1.0.6.8 - Minor
 ----------------
 Emergency patch to include compressed image.
 ----------------
+V1.0.6.9 - Stable
+----------------
+Buttons under sub-threads to navigate to a thread page have been darkened.
+Tweaked some internal CSS code for clarity.
+Compressed the JPG image even further, no reduction in quality.
+Images now load instantaneously.
+Improved resource loading times.
+Decreased overall memory usage.
+----------------
