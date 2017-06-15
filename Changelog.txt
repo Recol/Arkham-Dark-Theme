@@ -102,3 +102,10 @@ Images now load instantaneously.
 Improved resource loading times.
 Decreased overall memory usage.
 ----------------
+V1.0.7 - Stable
+----------------
+Cut image ratios to improve loading times.
+Overall decreased memory usage.
+Improved extension loading times.
+Fixed a colouring issue with borders on buttons.
+----------------
