@@ -1,4 +1,4 @@
-body{background:#121212!important;color:#4b565d!important}
+body{background:#0e0e0e!important;color:#4b565d!important; background-color:#121212 !important}
 .xenith_bg{background: url('chrome-extension://__MSG_@@extension_id__/images/bg.jpg') 50% 0 no-repeat!important}
 .xenith_bg_mask{opacity:.35!important}
 div.baseHtml.excerptContent{color:#959595!important}
@@ -52,7 +52,7 @@ div.attribution.type{background-color:#1a1a1a;color:#959595;border-left:0}
 .Menu .sectionFooter{background-color:#1a1a1a!important;color:#959595!important;border-top:.5px solid #1a1a1a!important}
 .Menu .primaryContent{background-color:#1a1a1a!important;color:#959595!important}
 .Menu .secondaryContent{background-color:#1a1a1a!important;color:#959595!important}
-html{background-color:#1a1a1a!important}
+.html{background-color:#1a1a1a!important}
 .blockLinksList{background-color:#1a1a1a!important;border-color:#1a1a1a!important}
 .blockLinksList label{border-color:#1a1a1a!important}
 div.tabLinks.articlesTabLinks{background-color:rgba(0,0,0,.015)!important}
@@ -169,3 +169,6 @@ div.questionMark{background-color:#121212!important}
 .staffTitle {background:#121212 url(styles/xenith/xenforo/gradients/form-button-white-25px.png) repeat-x top!important; border-bottom: 0px !important}
 body .itemPageNav a {background-color:#121212 !important; border-radius: 0px !important; color:#e7e7e7 !important; border: 0px !important}
 .itemPageNav span {background-color:#121212 !important; border-radius: 0px !important; color:#e7e7e7 !important; border: 0px !important}
+div.sidebar{background-color:#121212 !important}
+.mainContainer{background:#121212 !important}
+#content{background-color:#121212 !important}
