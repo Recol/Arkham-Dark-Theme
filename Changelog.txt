@@ -108,4 +108,8 @@ Cut image ratios to improve loading times.
 Overall decreased memory usage.
 Improved extension loading times.
 Fixed a colouring issue with borders on buttons.
+Implemented CSS code to fix non-standing colouring issues with a layering portion and background colours.
+Loading times have been decreased.
+Bug fixes.
 ----------------
+
