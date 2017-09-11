@@ -24,11 +24,11 @@ div.baseHtml.excerptContent{color:#959595!important}
 div.messageInfo{color:#959595!important;border-color:#1a1a1a!important}
 div.uix_message{background-color:#1a1a1a!important}
 .messageUserBlock div.avatarHolder{background-color:#1a1a1a!important}
-.messageUserBlock h3.userText{background-color:#141414!important;border-radius:0!important}
-.messageUserBlock .extraUserInfo{background-color:#141414!important;border-radius:0!important}
-.messageUserBlockToggle{background-color:#141414!important;border:1px solid #141414!important}
-.messageUserBlock .userBanner{border-color:#1a1a1a!important;background-color:#141414!important}
-.userBanner.bannerPrimary.wrapped span{background-color:#141414!important}
+.messageUserBlock h3.userText{background-color:#121212!important;border-radius:0!important}
+.messageUserBlock .extraUserInfo{background-color:#121212!important;border-radius:0!important}
+.messageUserBlockToggle{background-color:transparent!important;border:1px solid transparent!important}
+.messageUserBlock .userBanner{border-color:#1a1a1a!important;background-color:transparent!important}
+.userBanner.bannerPrimary.wrapped span{background-color:#121212!important}
 .messageList .message{background:#1a1a1a!important}
 .mcPlayerMessage{background-color:rgba(0,0,0,0.247059)!important}
 .message .dark_postrating.likesSummary,.dark_postrating{background-color:rgba(0,0,0,0.25)!important;border-color:rgba(0,0,0,0.25)!important}
@@ -83,7 +83,7 @@ div.section.styleChooser .subHeading{background:#111!important}
 div.section.styleChooser .primaryContent{background-color:rgba(44,44,44,0.87)!important}
 div.section.styleChooser .secondaryContent{background-color:#101010!important}
 div.section.styleChooser .sectionFooter{background-color:#111!important}
-div.mainText.secondaryContent{background-color:#141414!important}
+div.mainText.secondaryContent{background-color:#121212!important}
 ul.tabs.mainTabs.Tabs{background:rgba(25,25,25,1)!important;border-bottom:0!important;background-color:#121212!important}
 .tabs li a,.tabs.noLinks
 li{background-color:#101010!important}
@@ -113,8 +113,8 @@ dl.pairsInline{background:#141414)!important}
 p#UserStatus.userStatus{background-color:rgba(25,25,25,1)!important}
 li.threadListSeparator.sticky{background-color:#111!important}
 li.threadListSeparator{background-color:#111!important}
-.uix_message .messageUserInfo{background-color:rgba(0,0,0,0.247059)!important;border-right-width:0!important}
-.messageUserInfo{border-right-width:0!important}
+.uix_message .messageUserInfo{background-color:#121212!important;border-right-width:0!important}
+.messageUserInfo{border-right-width:0!important; background-color:#121212 !important}
 .tagList .tag{background-color:#121212!important;border:1px solid #141414!important}
 span.arrow{display:none!important}
 #QuickSearch .formPopup{background:#141414!important}
@@ -133,10 +133,10 @@ div.timeline-Widget{display:none!important}
 div.primaryContent table{border-color:#121212}
 h3.subHeading.textWithCount{border:0 solid #121212}
 .profilePage .mast .sectionFooter{border-left:0!important;border-right:0!important;border-top:0!important}
-em.userBanner.bannerPrimary{background-color:#141414!important;border-color:#141414!important}
-.userBanner.bannerYellow.wrapped span{background-color:#141414!important}
-.userBanner.bannerRed.wrapped span{background-color:#141414!important}
-.userBanner.bannerLightGreen.wrapped span{background-color:#141414!important}
+em.userBanner.bannerPrimary{background-color:#121212!important;border-color:#121212!important}
+.userBanner.bannerYellow.wrapped span{background-color:#121212!important}
+.userBanner.bannerRed.wrapped span{background-color:#121212!important}
+.userBanner.bannerLightGreen.wrapped span{background-color:#121212!important}
 .navPopup .listItem{border-bottom-color:#1a1a1a!important;background-color:#1a1a1a!important}
 #XenForoUniq0 .blockLinksList a,.blockLinksList label{border-color:#1a1a1a!important;color:#fff!important;background-color:#1a1a1a!important}
 #XenForoUniq1 .blockLinksList a,.blockLinksList label{border-color:#1a1a1a!important;color:#fff!important;background-color:#1a1a1a!important}
@@ -172,3 +172,5 @@ body .itemPageNav a {background-color:#121212 !important; border-radius: 0px !im
 div.sidebar{background-color:#121212 !important}
 .mainContainer{background:#121212 !important}
 #content{background-color:#121212 !important}
+ul.userGroupRanks.posPadTop{background-color:#121212 !important}
+.messageUserBlock .userBanner{margin-left: -22px !important; margin-right: -15px !important}
