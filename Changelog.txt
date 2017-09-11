@@ -112,4 +112,10 @@ Implemented CSS code to fix non-standing colouring issues with a layering portio
 Loading times have been decreased.
 Bug fixes.
 ----------------
-
+V1.0.7.2 - Stable
+----------------
+Removed support for CraftedWild.
+Removed support for Skyblocky.
+Added support for CandyCraft. (Beta phase)
+Firefox is now supported. 
+----------------
