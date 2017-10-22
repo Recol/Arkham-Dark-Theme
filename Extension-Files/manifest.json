@@ -1,8 +1,8 @@
 {
 	"name": "Arkham Dark Theme",
-	"version": "1.0.7.2",
+	"version": "1.0.8",
 	"manifest_version": 2,
-	"description": "Used to darken the look of the Arkham Network forums, Skyblocky forums, MCPrison forums and CraftedWild's forums.",
+	"description": "Used to darken the look of the Arkham Network forums and Candycraft's forums.",
 	"short_name": "ADT",
 
 	"icons": {
@@ -18,13 +18,9 @@
 	},
 	
 	 "permissions": [
-       "webRequest",
-       "webRequestBlocking",
-       "https://*.cdnjs.cloudflare.com/ajax*snowstorm-min.js"
+      
 	],
-	 "background": {
-       "scripts": ["background.js"]
-	},
+
 	"content_scripts": [{
 		"matches": ["http://arkhamnetwork.org/community/*", "https://candycraft.org/community/forums/*"],
 		"css": ["code1.css"]
