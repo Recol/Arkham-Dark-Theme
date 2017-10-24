@@ -1,6 +1,6 @@
 {
 	"name": "Arkham Dark Theme",
-	"version": "1.0.8",
+	"version": "1.0.8.1",
 	"manifest_version": 2,
 	"description": "Used to darken the look of the Arkham Network forums and Candycraft's forums.",
 	"short_name": "ADT",
@@ -22,7 +22,7 @@
 	],
 
 	"content_scripts": [{
-		"matches": ["http://arkhamnetwork.org/community/*", "https://candycraft.org/community/forums/*"],
+		"matches": ["http://arkhamnetwork.org/community/*", "https://candycraft.org/community/*"],
 		"css": ["code1.css"]
 		
 	}]

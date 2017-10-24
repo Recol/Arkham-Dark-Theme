@@ -1,8 +1,8 @@
-body{background-color:#121212!important; background: url('chrome-extension://__MSG_@@extension_id__/images/bg-min.jpg') 100% 0 no-repeat !important; background-size: 100% 100% !important}
+body{background-color:#121212!important; background: url('chrome-extension://__MSG_@@extension_id__/images/bg-m2.jpeg') 100% 0 no-repeat !important; background-size: 100% 100% !important}
 #header{background:transparent !important}
 div.baseHtml.excerptContent{color:#959595!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent{background-color:transparent!important;color:#959595!important}
-.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent .messageUserBlock .avatarHolder{background-color:transparent!important}
+.EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent .messageUserBlock .avatarHolder{background-color:#111!important; border-radius: 0px !important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .sectionFooter{background-color:#111!important}
 .navTabs{background-color:transparent!important}
 .navTabs:hover{background-color:transparent!important}
@@ -185,7 +185,7 @@ span.crumbs{background-color:#121212 !important; border:1px solid #141414 !impor
 .Menu{border: 1px solid transparent !important}
 .uix_breadCrumb_toggleList li.toggleList_item{background-color: transparent !important; border: 1px solid transparent !important}
 .breadcrumb .crust a.crumb{background-color: #131313 !important; border-bottom: #141414 !important}
-span.nodeIcon{background:#2a517b url(https://i.imgur.com/1ouBjdK.png) no-repeat 0 0 !important}
+span.nodeIcon{background:#2a517b url('chrome-extension://__MSG_@@extension_id__/images/setup.png') no-repeat 0 0 !important}
 div#exposeMask{background-color: #111 !important}
 #ProfilePoster .textCtrl{background-color: #131313 !important; border: 1px solid #151515 !important}
 .profilePostListItem{border-top: 1px solid #151515 !important}
@@ -209,7 +209,15 @@ span.pageNavHeader{color: white !important}
 div.pageNavLinkGroup div.PageNav{background-color:transparent !important}
 .hasFlexbox .node.level_2 .nodeInfo{background-color:#121212 !important; border: 1px solid #141414 !important}
 .sidebar .avatarList ul{background-color:#121212 !important}
-ul#ProfilePostList.nonInitial{background:#121212 !important}
+div.sidebar #widget_2 div.secondaryContent ul#ProfilePostList.nonInitial {background:#121212 !important}
 .sidebar .section #boardStats .pairsJustified, .sidebar .section .statsList .pairsJustified{background-color:#121212 !important}
 .sidebar .section .listInline{background-color:#121212 !important}
 .sidebar .section .footnote{background-color:#121212 !important}
+.profilePage .mast .sectionFooter {border: 1px solid #151515 !important; color: white !important}
+div.followBlocks div.sectionFooter a.OverlayTrigger{color: white !important}
+.textWithCount.subHeading .count{background-color:#141414 !important; border: 1px solid #151515 !important}
+div.messageUserBlock{border: 0px !important}
+div.footer-top{display: none !important}
+i.uix_icon.uix_icon-rss{display: none !important}
+div.portaCopy.copyright.muted{display: none !important}
+div.sidebar #widget_2 div.secondaryContent form#ProfilePoster.statusPoster.AutoValidator{background:#121212 !important}
