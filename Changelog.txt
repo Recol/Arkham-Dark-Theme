@@ -2,122 +2,7 @@ Changes for version 1.0.1 - 1.0.5.3 can be found here: https://pastebin.com/cuue
 ----------------
 V1.0.5.5 - V1.0.5.9 can be viewed here: https://pastebin.com/mdvhsA8d
 ----------------
-v1.0.6 - Major
-----------------
-CraftedWild's titles located on the top have been revamped. 
-Arkham's titles located on the top have been revamped.
-Hover elements have been removed.
-Scrolling on a notification will no longer appear white. 
-Notification elements have been reworked. 
-Bordering for notifications have been removed.
-All colouring schemes for menus have undergone a colour rework. 
-General bug fixes.
-Changes can now be viewed by clicking the extension.
-----------------
-V1.0.6.1 - Beta
-----------------
-Spoilers have been fixed. (Blame caleb)
-Bordering around spoilers have been darkened.
-----------------
-V1.0.6.2 - Beta
-----------------
-Custom icon has been added with the theme.
-----------------
-V1.0.6.3 - Major
-----------------
-Buttons have been darkened on all forums.
-Colouring scheme with articles has been overhauled.
-Colour schemes for the body and dividers have been improved.
-Total code overhaul to improve load times and to improve colour co-ordinance.
-Poll section has been darkened.
-Attachments have been darkened.
-Borders have been removed from attachments.
-Borders located on the main section with "General Discussion" etc has been darkened.
-Button colour-coordination with the rest of theme has been improved.
-Shadowing has been introduced to many sections of each forum.
-Code for element classes has been adjusted for better eye clarity.
-Hover elements for polls have been darkened. (Hovering over a poll option will now darken)
-Fixed text not appearing clearly.
-Many sections are now transparent to match with the body.
-All forums now follow the Material Design layout.
-Layering has been improved.
-Improvements relating to the manifest.json.
-The extension image has been revamped.
-Images now scale better when viewed upon in chrome://extensions.
-Shadowing has been introduced to user profiles.
-Dividers for threads have been darkened.
-Backgrounds for thread sections have been darkened more than before.
-Clarity across the entire theme has been improved.
-Replaced images on the Chrome Web Store with updated images and removed obselete images.
-Improvements to the text positioning on the GUI.
-Fixed issues with backgrounds appearing white on buttons.
-Laying the groundwork for turning the "Support" bubbles dark.
-Tweaked padding values for text.
-Removed several RGBA values and replaced with hexadecimal values.
-Improved text clarity across all forums.
-Bugs relating to CraftedWild have been resolved.
-Improvements to backgrounds for reaction emotes.
-User profile dividers have been darkened.
-Fixed small minor issues with text appearing black instead of white. (Inversion issue)
-----------------
-V1.0.6.4 - Minor
-----------------
-Footer has been removed at the bottom of each forum.
-Text has been darkened for minor sections.
-Image for the background is now hosted on Github for quicker image processing.
-Improved load times.
-Cleaned up CSS code.
-Minor bug fixes.
-----------------
-V1.0.6.5 - Minor
-----------------
-Fixed up background colouring for user profiles.
-Slightly increased contrast for buttons, not noticeable.
-Minor bug fixes.
-----------------
-V1.0.6.6 - Minor
-----------------
-Minor bug fixes.
-Compressed CSS code even further.
-----------------
-V1.0.6.7 - Major
-----------------
-Issues with dark titles under the "Members" section for staff have been resolved.
-Images are now fetched internally and as such are no longer required to be fetched from Github.
-Removed Github from CSS reference.
-Prioritised certain CSS code.
-Updated manifest resources.
-Fixed multiple clarity issues which occurred in Skyblocky.
-----------------
-V1.0.6.8 - Minor
-----------------
-Emergency patch to include compressed image.
-----------------
-V1.0.6.9 - Stable
-----------------
-Buttons under sub-threads to navigate to a thread page have been darkened.
-Tweaked some internal CSS code for clarity.
-Compressed the JPG image even further, no reduction in quality.
-Images now load instantaneously.
-Improved resource loading times.
-Decreased overall memory usage.
-----------------
-V1.0.7 - Stable
-----------------
-Cut image ratios to improve loading times.
-Overall decreased memory usage.
-Improved extension loading times.
-Fixed a colouring issue with borders on buttons.
-Implemented CSS code to fix non-standing colouring issues with a layering portion and background colours.
-Loading times have been decreased.
-Bug fixes.
-----------------
-V1.0.7.2 - Stable
-----------------
-Removed support for CraftedWild.
-Removed support for Skyblocky.
-Added support for CandyCraft. (Beta phase)
-Firefox is now supported. 
+V1.0.6 - V1.0.7.2 can be viewed here: https://pastebin.com/G40xwJ3n
 ----------------
 V1.0.8 - Big Changes
 ----------------
@@ -166,3 +51,18 @@ Cleaned up user profile colours.
 Changed navigation bar colour.
 Candycraft thread lists have been fixed.
 Fixed profile colour backgrounds on Candycraft.
+----------------
+V1.0.8.1
+----------------
+Fixed avatar backgrounds on Arkham's announcements.
+Removed borders on avatar backgrounds.
+Removed footer.
+Removed RSS icon.
+Removed Xenforo design owner display.
+Crunched changelog version - 1.0.8 is now the base.
+Darkened forum thread images are now loaded from the hard drive.
+Removed Imgur need.
+Changed background image.
+Candycraft profile posts have been fixed.
+Candycraft permissions updated, threads are now darkened.
+----------------
