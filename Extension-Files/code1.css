@@ -221,3 +221,5 @@ div.footer-top{display: none !important}
 i.uix_icon.uix_icon-rss{display: none !important}
 div.portaCopy.copyright.muted{display: none !important}
 div.sidebar #widget_2 div.secondaryContent form#ProfilePoster.statusPoster.AutoValidator{background:#121212 !important}
+ol#forums.nodeList.sectionMain{background-color:#121212 !important}
+div.nodeInfo.forumNodeInfo.unread{background-color:#121212 !important}
