@@ -66,3 +66,6 @@ Changed background image.
 Candycraft profile posts have been fixed.
 Candycraft permissions updated, threads are now darkened.
 ----------------
+V1.0.8.2
+----------------
+Fixed unread thread list not being darkened.
