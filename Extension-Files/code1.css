@@ -36,7 +36,7 @@ div.uix_message{background-color:#1a1a1a!important}
 .message .messageMeta .uix_postbit_privateControlsMenu{border:rgba(0,0,0,0.25)!important}
 .PageNav a{background-color:#1a1a1a!important;color:#959595!important;border:#1a1a1a!important}
 div.pageNavLinkGroup{background:#1a1a1a!important}
-.mainContainer .mainContent,.mainContainer_noSidebar{background-color:#141414!important}
+.mainContainer .mainContent,.mainContainer_noSidebar{background-color:#121212!important}
 div.discussionList.section.sectionMain{background-color:rgba(44,44,44,0.87);border:rgba(44,44,44,0.87)}
 dl.sectionHeaders{background-color:#111!important}
 li.heading.sticky{background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png)}
@@ -125,7 +125,7 @@ fieldset#QuickSearch.show.active{background-color:#141414!important}
 .discussionListFilters .removeFilter{background:#1a1a1a url(http://arkhamnetwork.org/community/styles/xenith/xenforo/gradients/form-button-white-25px.png)!important;border:0 solid #1a1a1a!important}
 .discussionListFilters .removeAllFilters:hover{background-color:#1a1a1a!important}
 .discussionListFilters .removeAllFilters{background-color:#1a1a1a!important}
-div.sectionFooter.InlineMod.SelectionCountContainer{background-color:#1a1a1a!important;border-top:0!important;border-left:0!important;border-right:0!important}
+div.sectionFooter.InlineMod.SelectionCountContainer{background-color:#121212!important;border-top:0!important;border-left:0!important;border-right:0!important; border-bottom:0!important}
 #DiscussionListOptionsHandle a{background-color:#1a1a1a!important}
 div.sectionFooter{background-color:#111!important;border-top:.5px solid #e8e8e8!important}
 div.titleBar{color:#626262!important;background-color:transparent!important}
@@ -225,3 +225,4 @@ ol#forums.nodeList.sectionMain{background-color:#121212 !important}
 div.nodeInfo.forumNodeInfo.unread{background-color:#131313 !important}
 div.nodeInfo.linkNodeInfo{background-color:#131313 !important}
 .nodeList .categoryForumNodeInfo, .nodeList .forumNodeInfo, .nodeList .pageNodeInfo, .nodeList .linkNodeInfo{background-color:#131313 !important}
+#DiscussionListOptionsHandle a {border-left:0 !important; border-right:0 !important; border-bottom:0 !important; background-color:#121212 !important}
