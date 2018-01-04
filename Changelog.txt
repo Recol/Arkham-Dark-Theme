@@ -76,3 +76,9 @@ Compressed background image further.
 Addon on Firefox and Chrome sizes reduced.
 Mobile on Firefox should now load with no issues.
 ----------------
+V1.0.8.4
+----------------
+Darkened the bottom footer under "General".
+White borders have been removed where they shouldn't appear.
+Fixed options for thread displays being the wrong colour.
+Smoothed out overall colours for several pages.
