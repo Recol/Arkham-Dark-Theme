@@ -82,3 +82,8 @@ Darkened the bottom footer under "General".
 White borders have been removed where they shouldn't appear.
 Fixed options for thread displays being the wrong colour.
 Smoothed out overall colours for several pages.
+----------------
+V1.0.8.5
+----------------
+Fixed thread previews not working when hovering.
+Minor other bug fix.
