@@ -87,3 +87,15 @@ V1.0.8.5
 ----------------
 Fixed thread previews not working when hovering.
 Minor other bug fix.
+----------------
+V1.0.8.6
+----------------
+Ratings not appearing dark has been corrected.
+Darkened border for a cleaner look.
+Removed the border located next to the bottom of the ratings page.
+Fixed poll options not appearing.
+Poll titles now appear.
+The collapse icon on the main forums is now darkened.
+Borders between posts under "New Posts" have been removed.
+Borders located on the main page are now removed.
+----------------
