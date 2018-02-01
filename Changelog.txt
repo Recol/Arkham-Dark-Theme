@@ -106,4 +106,5 @@ Support for CandyCraft has been abandoned, less memory usage and too difficult t
 Preparing Github repository for some changes.
 Implemented a test code update to darken notifications, hopefully works.
 Merged recent changes with Firefox, will be launched soon.
+Polished main Chrome page.
 -----------------
