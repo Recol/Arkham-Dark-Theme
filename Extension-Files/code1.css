@@ -183,7 +183,7 @@ span.crumbs{background-color:#121212 !important; border:1px solid #141414 !impor
 #content .pageContent::after{display: none !important}
 #content .pageContent::before{display: none !important}
 .Menu{border: 1px solid transparent !important}
-.uix_breadCrumb_toggleList li.toggleList_item{background-color: transparent !important; border: 1px solid transparent !important}
+.uix_breadCrumb_toggleList li.toggleList_item{background-color: #121212 !important; border: 1px solid transparent !important}
 .breadcrumb .crust a.crumb{background-color: #131313 !important; border-bottom: #141414 !important}
 span.nodeIcon{background:#2a517b url('chrome-extension://__MSG_@@extension_id__/images/setup.png') no-repeat 0 0 !important}
 div#exposeMask{background-color: #111 !important}
@@ -227,3 +227,12 @@ div.nodeInfo.linkNodeInfo{background-color:#131313 !important}
 .nodeList .categoryForumNodeInfo, .nodeList .forumNodeInfo, .nodeList .pageNodeInfo, .nodeList .linkNodeInfo{background-color:#131313 !important}
 #DiscussionListOptionsHandle a {border-left:0 !important; border-right:0 !important; border-bottom:0 !important; background-color:#121212 !important}
 div.xenPreviewTooltip{color:white !important}
+.dark_postrating_column{border:0px !important}
+div.overlayScroll.dark_postrating_detail{background:#131313 !important}
+div.dark_postrating_header{border:1px solid #181818 !important}
+div.sectionFooter.overlayOnly{border-top:0px !important}
+.pollBlock .pollOption label{color: white !important}
+.pollBlock .question .questionText{color:white !important}
+.threadListItem{border-top:0px !important}
+.node.level_2 .nodeInfo{border-top:0px !important}
+#GFNNotification{background-color:#121212 !important}
