@@ -2,4 +2,3 @@ The following gives detail as to what "change and access data" really means.
 
 The extension requires access to the following to operate:
 arkhamnetwork.org - Used to darken the look of Arkham's forums.
-candycraft.org - Used to darken the look of Candycraft's forums.
