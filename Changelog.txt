@@ -99,3 +99,11 @@ The collapse icon on the main forums is now darkened.
 Borders between posts under "New Posts" have been removed.
 Borders located on the main page are now removed.
 ----------------
+V1.0.8.7
+----------------
+Screenshots for the Chrome Web Store are now updated.
+Support for CandyCraft has been abandoned, less memory usage and too difficult to manage resources between both forums.
+Preparing Github repository for some changes.
+Implemented a test code update to darken notifications, hopefully works.
+Merged recent changes with Firefox, will be launched soon.
+-----------------
