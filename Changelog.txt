@@ -113,3 +113,9 @@ V1.0.8.8
 Minor update to fix recent manifest description.
 Unified Firefox and Chrome numerical updates.
 -----------------
+V1.0.8.9
+-----------------
+Updated code to darken notifications, should now work.
+Borders located under "Profile Ratings" have been removed.
+Fixed black text when entering an update status.
+-----------------
