@@ -187,7 +187,7 @@ span.crumbs{background-color:#121212 !important; border:1px solid #141414 !impor
 .breadcrumb .crust a.crumb{background-color: #131313 !important; border-bottom: #141414 !important}
 span.nodeIcon{background:#2a517b url('chrome-extension://__MSG_@@extension_id__/images/setup.png') no-repeat 0 0 !important}
 div#exposeMask{background-color: #111 !important}
-#ProfilePoster .textCtrl{background-color: #131313 !important; border: 1px solid #151515 !important; color: #121212 !important}
+#ProfilePoster .textCtrl{background-color: #131313 !important; border: 1px solid #151515 !important; color: white !important}
 .profilePostListItem{border-top: 1px solid #151515 !important}
 input#QuickSearchQuery.textCtrl{background-color: #141414 !important; border: 0px !important; color: white !important}
 #QuickSearch .formPopup .secondaryControls {background:#141414 !important}
