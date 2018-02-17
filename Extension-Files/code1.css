@@ -187,7 +187,7 @@ span.crumbs{background-color:#121212 !important; border:1px solid #141414 !impor
 .breadcrumb .crust a.crumb{background-color: #131313 !important; border-bottom: #141414 !important}
 span.nodeIcon{background:#2a517b url('chrome-extension://__MSG_@@extension_id__/images/setup.png') no-repeat 0 0 !important}
 div#exposeMask{background-color: #111 !important}
-#ProfilePoster .textCtrl{background-color: #131313 !important; border: 1px solid #151515 !important}
+#ProfilePoster .textCtrl{background-color: #131313 !important; border: 1px solid #151515 !important; color: #121212 !important}
 .profilePostListItem{border-top: 1px solid #151515 !important}
 input#QuickSearchQuery.textCtrl{background-color: #141414 !important; border: 0px !important; color: white !important}
 #QuickSearch .formPopup .secondaryControls {background:#141414 !important}
@@ -236,3 +236,5 @@ div.sectionFooter.overlayOnly{border-top:0px !important}
 .threadListItem{border-top:0px !important}
 .node.level_2 .nodeInfo{border-top:0px !important}
 #GFNNotification{background-color:#121212 !important}
+.dark_postrating_member td {border-style: hidden !important}
+#XenForo body div#GFNNotification {background-color: #121212 !important}
