@@ -119,3 +119,7 @@ Updated code to darken notifications, should now work.
 Borders located under "Profile Ratings" have been removed.
 Fixed black text when entering an update status.
 -----------------
+V1.0.8.10
+-----------------
+Quick patch to address text colouring issues.
+-----------------
