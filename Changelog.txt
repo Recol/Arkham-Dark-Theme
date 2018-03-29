@@ -123,3 +123,12 @@ V1.0.8.10
 -----------------
 Quick patch to address text colouring issues.
 -----------------
+V1.0.8.11
+-----------------
+Fixed dark colours not appearing correctly on the sidebar when viewing threads.
+Fixed colour co-ordination on the background when viewing user profiles.
+Narrowed down specific CSS code to prevent conflicts with shading.
+Darkened the black hex code for profile pages.
+Text now appears grey for usernames on profiles.
+Minor tweaks with sidebars on user profiles for colour co-ordination.
+-----------------
