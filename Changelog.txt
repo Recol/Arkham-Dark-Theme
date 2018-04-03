@@ -132,3 +132,7 @@ Darkened the black hex code for profile pages.
 Text now appears grey for usernames on profiles.
 Minor tweaks with sidebars on user profiles for colour co-ordination.
 -----------------
+V1.0.9
+-----------------
+Changed update numerical scheme.
+Added an exception for the administrator panel.
