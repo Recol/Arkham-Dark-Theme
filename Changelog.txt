@@ -136,3 +136,7 @@ V1.0.9
 -----------------
 Changed update numerical scheme.
 Added an exception for the administrator panel.
+-----------------
+V1.0.9.1
+-----------------
+Fixed URL scheme
