@@ -144,3 +144,7 @@ Fixed URL scheme
 V1.0.9.2
 -----------------
 Changed exception to a wildcard scheme.
+-----------------
+V1.0.9.3
+-----------------
+User bar at the top has now been darkened.
