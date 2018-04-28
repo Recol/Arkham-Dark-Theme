@@ -172,7 +172,7 @@ body .itemPageNav a {background-color:#121212 !important; border-radius: 0px !im
 div.sidebar{background-color:#121212 !important}
 .mainContainer{background:#121212 !important}
 ul.userGroupRanks.posPadTop{background-color:#121212 !important}
-.messageUserBlock .userBanner{margin-left: -22px !important; margin-right: -15px !important}
+.messageUserBlock .userBanner{margin-left: -15x !important; margin-right: -10px !important}
 div.pageContent{background:transparent!important}
 #content .pageContent::before{display:none !important}
 .breadcrumb{background-color:#121212 !important; border:1px solid #141414 !important}
@@ -241,4 +241,5 @@ div.sectionFooter.overlayOnly{border-top:0px !important}
 #messageList div.avatarHolder{background-color: #111 !important}
 #messageList .mcPlayerMessage{background-color: #111 !important}
 .profilePage .primaryUserBlock h1{color: gray !important}
-#userBar div.navTabs{background-color: #292929 !important}
+#userBar div.pageWidth div.pageContent div.navTabs{background-color: #292929 !important}
+.messageSimple .comment textarea {color: white !important}
