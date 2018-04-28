@@ -148,3 +148,11 @@ Changed exception to a wildcard scheme.
 V1.0.9.3
 -----------------
 User bar at the top has now been darkened.
+-----------------
+V1.1
+-----------------
+Streamlined code version changes.
+Fixed user titles going off the screen on forum threads (decreased the left margin size).
+Merged updated code which fixes the user bar not being darkened.
+Commenting on profiles is now no longer black when typing.
+-----------------
