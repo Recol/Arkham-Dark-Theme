@@ -156,3 +156,9 @@ Fixed user titles going off the screen on forum threads (decreased the left marg
 Merged updated code which fixes the user bar not being darkened.
 Commenting on profiles is now no longer black when typing.
 -----------------
+V1.2
+-----------------
+Darkened search box under "Members".
+Implemented alpha code for darkening the navigation bar, disabled for now.
+Search box text now has a white colour when searching under "Members".
+-----------------
