@@ -1,4 +1,5 @@
 body{background-color:#121212!important; background: url('chrome-extension://__MSG_@@extension_id__/images/bg-m2.jpeg') 100% 0 no-repeat !important; background-size: 100% 100% !important}
+#navigation div.sticky_wrapper div.pageContent div.navTabs{background: } /*Navigation bar reminder to insert dark colour code.*/
 #header{background:transparent !important}
 div.baseHtml.excerptContent{color:#959595!important}
 .EWRporta2_ArticleList .mainContainer .mainContent .sectionMain .primaryContent{background-color:transparent!important;color:#959595!important}
@@ -243,3 +244,4 @@ div.sectionFooter.overlayOnly{border-top:0px !important}
 .profilePage .primaryUserBlock h1{color: gray !important}
 #userBar div.pageWidth div.pageContent div.navTabs{background-color: #292929 !important}
 .messageSimple .comment textarea {color: white !important}
+.findMember .textCtrl {background-color:#141414 !important; border-color: #151515 !important; color: white !important}
