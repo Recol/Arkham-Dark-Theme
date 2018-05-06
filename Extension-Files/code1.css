@@ -50,7 +50,7 @@ div.listBlock.posterAvatar{background-color:rgba(0,0,0,0.05)!important}
 div.attribution.type{background-color:#1a1a1a;color:#959595;border-left:0}
 .bbCodeQuote .quoteContainer{background-color:rgba(44,44,44,0.87)!important;border-left:0 solid!important}
 .bbCodeBlock{border:0!important}
-.Menu .sectionFooter{background-color:#1a1a1a!important;color:#959595!important;border-top:.5px solid #1a1a1a!important}
+.Menu .sectionFooter{background-color:#1a1a1a!important;color:#959595!important;border-top:.5px solid #1a1a1a!important;border-bottom:#1a1a1a !important}
 .Menu .primaryContent{background-color:#1a1a1a!important;color:#959595!important}
 .Menu .secondaryContent{background-color:#1a1a1a!important;color:#959595!important}
 .html{background-color:#1a1a1a!important}
@@ -112,7 +112,7 @@ div.sectionMain.funbox{display:none!important}
 div.funboxWrapper{display:none!important}
 dl.pairsInline{background:#141414)!important}
 .visitorPanel .stats dl{background:transparent!important}
-p#UserStatus.userStatus{background-color:#141414 !important; color: white !important}
+p#UserStatus.userStatus{background-color:#121212 !important; color: white !important}
 li.threadListSeparator.sticky{background-color:#111!important}
 li.threadListSeparator{background-color:#111!important}
 .uix_message .messageUserInfo{background-color:#121212!important;border-right-width:0!important}
@@ -245,3 +245,7 @@ div.sectionFooter.overlayOnly{border-top:0px !important}
 #userBar div.pageWidth div.pageContent div.navTabs{background-color: #292929 !important}
 .messageSimple .comment textarea {color: white !important}
 .findMember .textCtrl {background-color:#141414 !important; border-color: #151515 !important; color: white !important}
+.discussionListItem .noteRow{background-color:#0d0d0d !important}
+#AccountMenu .statusPoster textarea{border: 0px !important}
+.profilePage .primaryUserBlock .lastActivity{border-top: 1px solid #141414 !important}
+.players{background: rgba(51, 51, 51, 51, 1) !important}
