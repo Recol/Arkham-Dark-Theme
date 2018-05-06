@@ -162,3 +162,12 @@ Darkened search box under "Members".
 Implemented alpha code for darkening the navigation bar, disabled for now.
 Search box text now has a white colour when searching under "Members".
 -----------------
+V1.3
+-----------------
+Note bar under "New Posts" has been darkened.
+The white border under "Thread tools" has been removed.
+Removed the white border which appears when updating your status when hovering over your profile.
+Darkened the border which appears at the top of a user's profile.
+Fixed colour mismatch with the background on a user's profile with the "last status" being lighter than the rest.
+Made the transparent effect with "Players online" darker.
+-----------------
