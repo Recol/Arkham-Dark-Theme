@@ -22,8 +22,8 @@
 	],
 
 	"content_scripts": [{
-		"matches": ["http://arkhamnetwork.org/community/*, https://arkhamnetwork.org/community/*"],
-		"exclude_matches": ["http://arkhamnetwork.org/community/admin.php/*, https://arkhamnetwork.org/community/admin.php/*"],
+		"matches": ["http://arkhamnetwork.org/community/*", "https://arkhamnetwork.org/community/*"],
+		"exclude_matches": ["http://arkhamnetwork.org/community/admin.php/*", "https://arkhamnetwork.org/community/admin.php/*"],
 		"css": ["code1.css"]
 		
 	}]
