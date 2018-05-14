@@ -171,3 +171,6 @@ Darkened the border which appears at the top of a user's profile.
 Fixed colour mismatch with the background on a user's profile with the "last status" being lighter than the rest.
 Made the transparent effect with "Players online" darker.
 -----------------
+V1.4
+-----------------
+Future-proofing the dark theme incase Arkham switches to https://, it will now work regardless.
