@@ -1,0 +1,46 @@
+div.pageContent.noBorderRadius.skrollable-between{background:rgba(44,44,44,0.87) url(http://arkhamnetwork.org/community/styles/rekt/rekt/footer_hex_overlay.png) no-repeat center -90px!important}
+a.OverlayTrigger.Tooltip{background-color:#121212!important}
+div.nodeInfo.forumNodeInfo{background-color:#121212;border-color:#1a1a1a!important}
+i.iconic.shape-hexagon{color:#665F7A}
+div.uix_nodeTitle_status{background-color:rgba(44,44,44,0.87)}
+dl{border:0 solid #transparent!important; color:white !important}
+ol.subForumList{background:#131313 none repeat scroll 0 0!important}
+div.nodeInfo.linkNodeInfo{background-color:#121212;border-color:#10181c;border-top:0!important}
+#uix_wrapper .thread_view .PageNav{background:transparent!important}
+div.titleBar{background-color:rgba(0,0,0,.045)!important}
+div.mainContentBlock.section.primaryContent{background-color:rgba(0,0,0,0.25)!important;border:1px solid rgba(0,0,0,.1)!important}
+div.section.styleChooser .heading{background:#111!important}
+div.section.styleChooser .subHeading{background:#111!important}
+div.section.styleChooser .primaryContent{background-color:rgba(44,44,44,0.87)!important}
+div.section.styleChooser .secondaryContent{background-color:#101010!important}
+div.section.styleChooser .sectionFooter{background-color:#111!important}
+div.mainText.secondaryContent{background-color:#121212!important}
+ul.tabs.mainTabs.Tabs{background:#121212!important;border-bottom:0!important; color:white !important}
+.tabs li a,.tabs.noLinks
+li{background-color:#101010!important; color: white !important; border: 1px solid #121212 !important}
+.tabs li a:after,.tabs.noLinks li:after{background-color:#101010!important}
+#profilePosts .primaryContent{background-color:#111!important;border:0!important}
+div.mainProfileColumn{border-left:0!important}
+div.messageInfo .textCtrl{background-color:rgba(0,0,0,0.25)!important;border:0!important}
+div.tabLinks.membersTabLinks{background-color:#transparent!important}
+div.xenOverlay.memberCard{background-color:#111!important}
+.xenOverlay .formOverlay{background-color:#0a0a0a!important;border:0!important}
+.xenOverlay .formOverlay .heading{background-color:rgba(0,0,0,0.25)!important}
+body .AvatarEditor .avatarOption{background:rgba(0,0,0,0.25)!important;border-color:rgba(0,0,0,0.25)!important}
+.xenOverlay .formOverlay .textCtrl{background-color:rgba(0,0,0,0.25)!important;border:0!important}
+li.primaryContent{background-color:#141414!important;border-bottom:0!important}
+ul.tabs{border-bottom:0!important}
+.primaryContent{background-color:#121212!important;border-bottom:0!important;border:1px solid #151212!important}
+.sectionMain{background-color:#111!important;border:0!important}
+#messageList .sectionMain{margin: 3px auto !important}
+.heading{background-color:#000!important}
+.subHeading{background-color:#000!important}
+.navigationSideBar > ul{border:0!important;border-width:0!important;background-color:#121212!important}
+.secondaryContent{background-color:transparent!important;border-bottom:0!important}
+.navTabs .navTab.selected .tabLinks{background-color:#transparent!important}
+div.sectionMain.funbox{display:none!important}
+div.funboxWrapper{display:none!important}
+dl.pairsInline{background:#141414)!important}
+.visitorPanel .stats dl{background:transparent!important}
+p#UserStatus.userStatus{background-color:#121212 !important; color: white !important}
+li.threadListSeparator.sticky{background-color:#111!important}

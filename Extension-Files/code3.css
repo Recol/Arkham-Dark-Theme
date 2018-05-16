@@ -1,0 +1,83 @@
+li.threadListSeparator{background-color:#111!important}
+.uix_message .messageUserInfo{background-color:#121212!important;border-right-width:0!important}
+.messageUserInfo{border-right-width:0!important; background-color:#121212 !important}
+.tagList .tag{background-color:#121212!important;border:1px solid #141414!important}
+span.arrow{display:none!important}
+#QuickSearch .formPopup{background:transparent!important}
+#QuickSearch .show{background-color:#141414!important;border:0!important}
+fieldset#QuickSearch.show.active{background-color:#141414!important}
+.threadListSeparator{background-color:#1a1a1a!important;border-top-width:0!important;border-bottom-width:0!important}
+.discussionListFilters .removeFilter{background:#1a1a1a url(http://arkhamnetwork.org/community/styles/xenith/xenforo/gradients/form-button-white-25px.png)!important;border:0 solid #1a1a1a!important}
+.discussionListFilters .removeAllFilters:hover{background-color:#1a1a1a!important}
+.discussionListFilters .removeAllFilters{background-color:#1a1a1a!important}
+div.sectionFooter.InlineMod.SelectionCountContainer{background-color:#121212!important;border-top:0!important;border-left:0!important;border-right:0!important; border-bottom:0!important}
+#DiscussionListOptionsHandle a{background-color:#1a1a1a!important}
+div.sectionFooter{background-color:#111!important;border-top:.5px solid #e8e8e8!important}
+div.titleBar{color:#626262!important;background-color:transparent!important}
+div.timeline-Widget{display:none!important}
+.profilePage .profileContent:not(#profilePosts){background-color:#141414!important}
+div.primaryContent table{border-color:#121212}
+h3.subHeading.textWithCount{border:0 solid #121212}
+em.userBanner.bannerPrimary{background-color:#121212!important;border-color:#121212!important}
+.userBanner.bannerYellow.wrapped span{background-color:#121212!important}
+.userBanner.bannerRed.wrapped span{background-color:#121212!important}
+.userBanner.bannerLightGreen.wrapped span{background-color:#121212!important}
+.navPopup .listItem{border-bottom-color:#1a1a1a!important;background-color:#1a1a1a!important}
+#XenForoUniq0 .blockLinksList a,.blockLinksList label{border-color:#1a1a1a!important;color:#fff!important;background-color:#1a1a1a!important}
+#XenForoUniq1 .blockLinksList a,.blockLinksList label{border-color:#1a1a1a!important;color:#fff!important;background-color:#1a1a1a!important}
+#XenForo #AccountMenu .blockLinksList a,.blockLinksList label{border-color:#1a1a1a!important;color:#fff!important;background-color:#1a1a1a!important}
+.Menu{background-color:#1a1a1a!important}
+#header .blockLinksList a,.blockLinksList label{border-color:#1a1a1a!important;color:#fff!important;background-color:#transparent!important}
+.hasJs .bbCodeSpoilerText{background-color:#1a1a1a!important;border:1px #1e1e1e!important}
+.attachedFiles .attachmentList{background:#1a1a1a url(styles/xenith/xenforo/gradients/category-23px-light.png) repeat-x top!important;-webkit-border-radius:0!important}
+div.boxModelFixer.primaryContent{border:1px solid #151212!important}
+.attachedFiles .attachedFilesHeader{background-color:#1a1a1a!important;color:#fff!important}
+.attachment .thumbnail{border-right:1px solid #151212!important}
+.titleBar h1{background-color:transparent!important; color: #2a517b !important}
+#pageDescription{background-color:transparent!important;margin-top:0!important}
+#headerMover #content div.PageNav{background-color:transparent!important}
+.pageNavLinkGroup .linkGroup{background-color:#121212!important}
+.discussionListItems{background-color:#121212!important}
+#articlesGrid div.sectionMain{background-color:#111!important}
+div.questionMark{background-color:#121212!important}
+#uix_wrapper #headerMover #content div.pageNavLinkGroup{background:#121212!important}
+.pollBlock .pollOption label:hover{background:#101010!important}
+.sectionMain{background-color:transparent!important}
+.node .unread .nodeIcon.hasGlyph{background-color:#202020!important}
+.node .nodeIcon.hasGlyph{border:1px solid #202020!important;background-color:#202020!important}
+.node.level_2 .nodeInfo:before{background-color:#202020!important}
+#uix_jumpToFixed{background-color:#202020!important}
+.bigFooter .pageContent{display:none!important}
+.footerLegal .pageContent{display:none!important}
+.footer .pageContent{display:none!important}
+.redactor_box {border:#121212 !important} 
+.staffTitle {background:#121212 url(styles/xenith/xenforo/gradients/form-button-white-25px.png) repeat-x top!important; border-bottom: 0px !important}
+body .itemPageNav a {background-color:#121212 !important; border-radius: 0px !important; color:#e7e7e7 !important; border: 0px !important}
+.itemPageNav span {background-color:#121212 !important; border-radius: 0px !important; color:#e7e7e7 !important; border: 0px !important}
+div.sidebar{background-color:#121212 !important}
+.mainContainer{background:#121212 !important}
+ul.userGroupRanks.posPadTop{background-color:#121212 !important}
+.messageUserBlock .userBanner{margin-left: -15x !important; margin-right: -10px !important}
+div.pageContent{background:transparent!important}
+#content .pageContent::before{display:none !important}
+.breadcrumb{background-color:#121212 !important; border:1px solid #141414 !important}
+span.crumbs{background-color:#121212 !important; border:1px solid #141414 !important}
+.sidebar .section .primaryContent h3, .sidebar .section .secondaryContent h3, .profilePage .mast .section.infoBlock h3{background-color:#0e0e0e !important; border: 1px solid #0f0f0f !important}
+.sidebar .section .secondaryContent {border: 1px solid #131313 !important}
+.messageUserBlock{border: 1px solid #131313 !important}
+#content .pageContent::after{display: none !important}
+#content .pageContent::before{display: none !important}
+.Menu{border: 1px solid transparent !important}
+.uix_breadCrumb_toggleList li.toggleList_item{background-color: #121212 !important; border: 1px solid transparent !important}
+.breadcrumb .crust a.crumb{background-color: #131313 !important; border-bottom: #141414 !important}
+span.nodeIcon{background:#2a517b url('chrome-extension://__MSG_@@extension_id__/images/setup.png') no-repeat 0 0 !important}
+div#exposeMask{background-color: #111 !important}
+#ProfilePoster .textCtrl{background-color: #131313 !important; border: 1px solid #151515 !important; color: white !important}
+.profilePostListItem{border-top: 1px solid #151515 !important}
+input#QuickSearchQuery.textCtrl{background-color: #141414 !important; border: 0px !important; color: white !important}
+#QuickSearch .formPopup .secondaryControls {background:#141414 !important}
+#QuickSearch .formPopup .controlsWrapper .textCtrl{background: #131313 !important; color: white !important; border: 1px solid #151515 !important}
+div#calroot{background-color: #141414 !important; border: 1px solid #151515 !important}
+span.selectionControl.secondaryContent{background-color: #151515 !important; color: white !important}
+span.actionControl.sectionFooter{background-color: #141414 !important; color: white !important}
+em.userTitle span{background-color: #141414 !important}
