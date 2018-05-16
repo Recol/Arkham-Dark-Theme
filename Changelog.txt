@@ -174,3 +174,5 @@ Made the transparent effect with "Players online" darker.
 V1.4
 -----------------
 Future-proofing the dark theme incase Arkham switches to https://, it will now work regardless.
+-----------------
+Improved resource loading susbtantially, the stylesheet has now been split into 4 smaller scripts which allow for the browser to load resources at a much quicker rate than executing from a single script.
