@@ -175,4 +175,14 @@ V1.4
 -----------------
 Future-proofing the dark theme incase Arkham switches to https://, it will now work regardless.
 -----------------
+V1.5
+-----------------
 Improved resource loading susbtantially, the stylesheet has now been split into 4 smaller scripts which allow for the browser to load resources at a much quicker rate than executing from a single script.
+-----------------
+V1.6
+-----------------
+Removed obselete property defining article text colours.
+Improved the look of lettering on the sidebar of the main forum page.
+Changed title colours to a lighter value, easier on the eyes.
+Began editing the AK symbol (WIP).
+-----------------
