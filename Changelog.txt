@@ -186,3 +186,7 @@ Improved the look of lettering on the sidebar of the main forum page.
 Changed title colours to a lighter value, easier on the eyes.
 Began editing the AK symbol (WIP).
 -----------------
+V1.7
+-----------------
+Fixed notification text appearing dark on the background.
+-----------------
