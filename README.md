@@ -1,4 +1,3 @@
-# Arkham Dark Theme
 Website holding the details to Arkham Dark Theme, and useful links.
 
 <a href="https://chrome.google.com/webstore/detail/arkham-dark-theme/naojgmnbokfikkbkhkfoakecmhbjlnge">Chrome Extension Download</a>
