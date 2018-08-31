@@ -1,52 +1,52 @@
-div.secondaryContent.pairsJustified{background-color:#111 !important}
-.profilePage .mast .section.infoBlock{border: 1px solid #121212 !important}
-.profilePage .profileContent{background-color:#111 !important}
-.profilePage .tabs.mainTabs li a{color: white !important; font-weight: normal !important; border: 1px solid #151515 !important}
-#jumpMenu div.secondaryContent{background-color:#1b1b1b !important; border: 1px solid #151515 !important}
-.profilePage .mainProfileColumn{background-color: #111 !important}
-.profilePage .mast {background-color: #111 !important}
-.profilePage .primaryUserBlock .userBlurb{color: white !important}
-.message .messageMeta .control{background-color: #131313 !important; border: 1px solid #121212 !important}
-span.pageNavHeader{color: white !important}
-div.pageNavLinkGroup div.PageNav{background-color:transparent !important}
-.hasFlexbox .node.level_2 .nodeInfo{background-color:#121212 !important; border: 1px solid #141414 !important}
-.sidebar .avatarList ul{background-color:#121212 !important}
-div.sidebar #widget_2 div.secondaryContent ul#ProfilePostList.nonInitial {background:#121212 !important}
-.sidebar .section #boardStats .pairsJustified, .sidebar .section .statsList .pairsJustified{background-color:#121212 !important}
-.sidebar .section .listInline{background-color:#121212 !important}
-.sidebar .section .footnote{background-color:#121212 !important}
-.profilePage .mast .sectionFooter {border: 1px solid #151515 !important; color: white !important}
-div.followBlocks div.sectionFooter a.OverlayTrigger{color: white !important}
-.textWithCount.subHeading .count{background-color:#141414 !important; border: 1px solid #151515 !important}
-div.messageUserBlock{border: 0px !important}
-div.footer-top{display: none !important}
-i.uix_icon.uix_icon-rss{display: none !important}
-div.portaCopy.copyright.muted{display: none !important}
-div.sidebar #widget_2 div.secondaryContent form#ProfilePoster.statusPoster.AutoValidator{background:#121212 !important}
-ol#forums.nodeList.sectionMain{background-color:#121212 !important}
-div.nodeInfo.forumNodeInfo.unread{background-color:#131313 !important}
-div.nodeInfo.linkNodeInfo{background-color:#131313 !important}
+div.secondaryContent.pairsJustified{background-color:#111!important}
+.profilePage .mast .section.infoBlock{border: 1px solid #121212!important}
+.profilePage .profileContent{background-color:#111!important}
+.profilePage .tabs.mainTabs li a{color:white!important; font-weight: normal!important; border: 1px solid #151515!important}
+#jumpMenu div.secondaryContent{background-color:#1b1b1b!important; border: 1px solid #151515!important}
+.profilePage .mainProfileColumn{background-color: #111!important}
+.profilePage .mast {background-color: #111!important}
+.profilePage .primaryUserBlock .userBlurb{color: white!important}
+.message .messageMeta .control{background-color: #131313!important; border: 1px solid #121212!important}
+span.pageNavHeader{color: white!important}
+div.pageNavLinkGroup div.PageNav{background-color:transparent!important}
+.hasFlexbox .node.level_2 .nodeInfo{background-color:#121212!important; border: 1px solid #141414!important}
+.sidebar .avatarList ul{background-color:#121212!important}
+div.sidebar #widget_2 div.secondaryContent ul#ProfilePostList.nonInitial {background:#121212!important}
+.sidebar .section #boardStats .pairsJustified, .sidebar .section .statsList .pairsJustified{background-color:#121212!important}
+.sidebar .section .listInline{background-color:#121212!important}
+.sidebar .section .footnote{background-color:#121212!important}
+.profilePage .mast .sectionFooter {border: 1px solid #151515!important; color:white!important}
+div.followBlocks div.sectionFooter a.OverlayTrigger{color: white!important}
+.textWithCount.subHeading .count{background-color:#141414!important; border: 1px solid #151515!important}
+div.messageUserBlock{border: 0px!important}
+div.footer-top{display: none!important}
+i.uix_icon.uix_icon-rss{display: none!important}
+div.portaCopy.copyright.muted{display: none!important}
+div.sidebar #widget_2 div.secondaryContent form#ProfilePoster.statusPoster.AutoValidator{background:#121212!important}
+ol#forums.nodeList.sectionMain{background-color:#121212!important}
+div.nodeInfo.forumNodeInfo.unread{background-color:#131313!important}
+div.nodeInfo.linkNodeInfo{background-color:#131313!important}
 .nodeList .categoryForumNodeInfo, .nodeList .forumNodeInfo, .nodeList .pageNodeInfo, .nodeList .linkNodeInfo{background-color:#131313 !important}
-#DiscussionListOptionsHandle a {border-left:0 !important; border-right:0 !important; border-bottom:0 !important; background-color:#121212 !important}
-div.xenPreviewTooltip{color:white !important}
-.dark_postrating_column{border:0px !important}
-div.overlayScroll.dark_postrating_detail{background:#131313 !important}
-div.dark_postrating_header{border:1px solid #181818 !important}
-div.sectionFooter.overlayOnly{border-top:0px !important}
-.pollBlock .pollOption label{color: white !important}
-.pollBlock .question .questionText{color:white !important}
-.threadListItem{border-top:0px !important}
-.node.level_2 .nodeInfo{border-top:0px !important}
-#GFNNotification{background-color:#121212 !important}
-.dark_postrating_member td {border-style: hidden !important}
-#XenForo body div#GFNNotification {background-color: #121212 !important}
-#messageList div.avatarHolder{background-color: #111 !important}
-#messageList .mcPlayerMessage{background-color: #111 !important}
-.profilePage .primaryUserBlock h1{color: gray !important}
-#userBar div.pageWidth div.pageContent div.navTabs{background-color: #292929 !important}
-.messageSimple .comment textarea {color: white !important}
-.findMember .textCtrl {background-color:#141414 !important; border-color: #151515 !important; color: white !important}
-.discussionListItem .noteRow{background-color:#0d0d0d !important}
-#AccountMenu .statusPoster textarea{border: 0px !important}
-.profilePage .primaryUserBlock .lastActivity{border-top: 1px solid #141414 !important}
-.players{background: rgba(51, 51, 51, 51, 1) !important}
+#DiscussionListOptionsHandle a {border-left:0!important; border-right:0!important; border-bottom:0!important; background-color:#121212 !important}
+div.xenPreviewTooltip{color:white!important}
+.dark_postrating_column{border:0px!important}
+div.overlayScroll.dark_postrating_detail{background:#131313!important}
+div.dark_postrating_header{border:1px solid #181818!important}
+div.sectionFooter.overlayOnly{border-top:0px!important}
+.pollBlock .pollOption label{color: white!important}
+.pollBlock .question .questionText{color:white!important}
+.threadListItem{border-top:0px!important}
+.node.level_2 .nodeInfo{border-top:0px!important}
+#GFNNotification{background-color:#121212!important}
+.dark_postrating_member td {border-style: hidden!important}
+#XenForo body div#GFNNotification {background-color: #121212!important}
+#messageList div.avatarHolder{background-color: #111!important}
+#messageList .mcPlayerMessage{background-color: #111!important}
+.profilePage .primaryUserBlock h1{color: gray!important}
+#userBar div.pageWidth div.pageContent div.navTabs{background-color: #292929!important}
+.messageSimple .comment textarea {color: white!important}
+.findMember .textCtrl {background-color:#141414!important; border-color: #151515!important; color: white!important}
+.discussionListItem .noteRow{background-color:#0d0d0d!important}
+#AccountMenu .statusPoster textarea{border: 0px!important}
+.profilePage .primaryUserBlock .lastActivity{border-top: 1px solid #141414!important}
+.players{background: rgba(51, 51, 51, 51, 1)!important}
