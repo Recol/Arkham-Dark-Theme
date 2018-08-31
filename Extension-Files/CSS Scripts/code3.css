@@ -52,32 +52,32 @@ div.questionMark{background-color:#121212!important}
 .footer .pageContent{display:none!important}
 .redactor_box {border:#121212 !important} 
 .staffTitle {background:#121212 url(styles/xenith/xenforo/gradients/form-button-white-25px.png) repeat-x top!important; border-bottom: 0px !important}
-body .itemPageNav a {background-color:#121212 !important; border-radius: 0px !important; color:#e7e7e7 !important; border: 0px !important}
-.itemPageNav span {background-color:#121212 !important; border-radius: 0px !important; color:#e7e7e7 !important; border: 0px !important}
-div.sidebar{background-color:#121212 !important}
-.mainContainer{background:#121212 !important}
-ul.userGroupRanks.posPadTop{background-color:#121212 !important}
-.messageUserBlock .userBanner{margin-left: -15x !important; margin-right: -10px !important}
+body .itemPageNav a {background-color:#121212!important;border-radius:0px!important;color:#e7e7e7!important;border:0px!important}
+.itemPageNav span {background-color:#121212!important;border-radius:0px!important;color:#e7e7e7!important;border:0px!important}
+div.sidebar{background-color:#121212!important}
+.mainContainer{background:#121212!important}
+ul.userGroupRanks.posPadTop{background-color:#121212!important}
+.messageUserBlock .userBanner{margin-left:-15x!important;margin-right:-10px!important}
 div.pageContent{background:transparent!important}
-#content .pageContent::before{display:none !important}
-.breadcrumb{background-color:#121212 !important; border:1px solid #141414 !important}
-span.crumbs{background-color:#121212 !important; border:1px solid #141414 !important}
-.sidebar .section .primaryContent h3, .sidebar .section .secondaryContent h3, .profilePage .mast .section.infoBlock h3{background-color:#0e0e0e !important; border: 1px solid #0f0f0f !important; color: gray !important; font-size: 14px !important}
+#content .pageContent::before{display:none!important}
+.breadcrumb{background-color:#121212!important;border:1px solid #141414!important}
+span.crumbs{background-color:#121212!important;border:1px solid #141414!important}
+.sidebar .section .primaryContent h3, .sidebar .section .secondaryContent h3, .profilePage .mast .section.infoBlock h3{background-color:#0e0e0e!important;border:1px solid #0f0f0f!important;color:gray!important;font-size:14px!important}
 .sidebar .section .secondaryContent {border: 1px solid #131313 !important}
-.messageUserBlock{border: 1px solid #131313 !important}
-#content .pageContent::after{display: none !important}
-#content .pageContent::before{display: none !important}
-.Menu{border: 1px solid transparent !important}
-.uix_breadCrumb_toggleList li.toggleList_item{background-color: #121212 !important; border: 1px solid transparent !important}
-.breadcrumb .crust a.crumb{background-color: #131313 !important; border-bottom: #141414 !important}
-span.nodeIcon{background:#2a517b url('chrome-extension://__MSG_@@extension_id__/images/setup.png') no-repeat 0 0 !important}
-div#exposeMask{background-color: #111 !important}
-#ProfilePoster .textCtrl{background-color: #131313 !important; border: 1px solid #151515 !important; color: white !important}
-.profilePostListItem{border-top: 1px solid #151515 !important}
-input#QuickSearchQuery.textCtrl{background-color: #141414 !important; border: 0px !important; color: white !important}
-#QuickSearch .formPopup .secondaryControls {background:#141414 !important}
-#QuickSearch .formPopup .controlsWrapper .textCtrl{background: #131313 !important; color: white !important; border: 1px solid #151515 !important}
-div#calroot{background-color: #141414 !important; border: 1px solid #151515 !important}
-span.selectionControl.secondaryContent{background-color: #151515 !important; color: white !important}
-span.actionControl.sectionFooter{background-color: #141414 !important; color: white !important}
-em.userTitle span{background-color: #141414 !important}
+.messageUserBlock{border: 1px solid #131313!important}
+#content .pageContent::after{display:none!important}
+#content .pageContent::before{display:none!important}
+.Menu{border: 1px solid transparent!important}
+.uix_breadCrumb_toggleList li.toggleList_item{background-color: #121212!important; border:1px solid transparent!important}
+.breadcrumb .crust a.crumb{background-color: #131313 !important; border-bottom: #141414!important}
+span.nodeIcon{background:#2a517b url('chrome-extension://__MSG_@@extension_id__/images/setup.png') no-repeat 0 0!important}
+div#exposeMask{background-color: #111!important}
+#ProfilePoster .textCtrl{background-color: #131313!important; border: 1px solid #151515!important; color:white!important}
+.profilePostListItem{border-top: 1px solid #151515!important}
+input#QuickSearchQuery.textCtrl{background-color: #141414!important; border: 0px!important; color: white!important}
+#QuickSearch .formPopup .secondaryControls {background:#141414!important}
+#QuickSearch .formPopup .controlsWrapper .textCtrl{background: #131313!important; color:white !important; border: 1px solid #151515!important}
+div#calroot{background-color: #141414!important; border: 1px solid #151515!important}
+span.selectionControl.secondaryContent{background-color: #151515!important; color: white !important}
+span.actionControl.sectionFooter{background-color: #141414!important; color: white !important}
+em.userTitle span{background-color: #141414!important}
